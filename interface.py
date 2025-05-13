@@ -13,6 +13,7 @@ from datetime import datetime, timedelta
 from time import sleep
 import time
 import customtkinter as ctk
+from CTkMessagebox import CTkMessagebox
 from tkinter import filedialog, messagebox
 import pandas as pd
 from collections import Counter
@@ -90,6 +91,11 @@ def limpar_screenshots():
             except:
                 logging.warning(f"Não foi possível remover {file}")
 
+def show_checkmark():
+    # Show some positive message with the checkmark icon
+    CTkMessagebox(message="remember to send the checklist",
+                  icon="check", option_1="Thanks")
+    
 # Função para mostrar apenas o frame selecionado
 def mostrar_frame(frame):
     for widget in frame_main.winfo_children():
@@ -278,6 +284,7 @@ Legenda:
         copiar_e_enviar_imagem("uptime.png", t_uptime)
 
         logging.warning("#CHECKLIST - Mensagem e imagem enviadas no Teams!")
+        show_checkmark()
 
     except Exception as e:
         messagebox.showerror(f"❌ Erro ao enviar mensagem e imagem: {e}")
