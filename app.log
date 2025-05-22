@@ -120,3 +120,108 @@
 2025-05-13 03:20:02,489 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
 2025-05-13 03:42:20,432 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
 2025-05-13 04:22:00,959 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-13 05:14:43,215 - WARNING - Erro ao clicar no zoom PIX https://grafana-ocp4.adiq.io/d/f5067f59-9f90-4e0f-b86c-8c2ba32fc3a8/monitor-pix-gw-bancario-geral?orgId=1&from=1740997996000&to=1741040658000&var-dataselecionada=2025-05-13
+2025-05-13 05:31:59,399 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-13 06:16:24,395 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-13 19:23:49,782 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-13 20:18:05,679 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-13 20:18:47,241 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-05-13 20:19:31,586 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-05-13 21:22:51,243 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-13 21:23:24,458 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-05-13 23:02:35,154 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-13 23:19:29,002 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-05-13 23:43:45,393 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-05-13 23:58:14,418 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-05-14 00:33:13,269 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-14 00:34:51,969 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-17 20:18:37,267 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-17 20:19:19,309 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-05-17 20:20:03,674 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-05-17 20:22:12,570 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-17 21:06:09,548 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-17 21:06:43,328 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-05-17 22:57:32,502 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-17 23:57:55,878 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-05-17 23:58:39,926 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-05-17 23:59:26,776 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-05-18 00:00:19,057 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-05-18 00:00:52,700 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-05-18 00:34:15,746 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-18 19:34:21,966 - ERROR - Erro na execução do Checklist: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+	GetHandleVerifier [0x00007FF72858CF65+75717]
+	GetHandleVerifier [0x00007FF72858CFC0+75808]
+	(No symbol) [0x00007FF728358F9A]
+	(No symbol) [0x00007FF728344E35]
+	(No symbol) [0x00007FF728369DB4]
+	(No symbol) [0x00007FF7283DEE75]
+	(No symbol) [0x00007FF7283FECC2]
+	(No symbol) [0x00007FF7283D7153]
+	(No symbol) [0x00007FF7283A0421]
+	(No symbol) [0x00007FF7283A11B3]
+	GetHandleVerifier [0x00007FF72888D74D+3223469]
+	GetHandleVerifier [0x00007FF728887CF2+3200338]
+	GetHandleVerifier [0x00007FF7288A5B23+3322755]
+	GetHandleVerifier [0x00007FF7285A6A3A+180890]
+	GetHandleVerifier [0x00007FF7285AE13F+211359]
+	GetHandleVerifier [0x00007FF7285952B4+109332]
+	GetHandleVerifier [0x00007FF728595462+109762]
+	GetHandleVerifier [0x00007FF72857BA79+4825]
+	BaseThreadInitThunk [0x00007FFEEEF07374+20]
+	RtlUserThreadStart [0x00007FFEF055CC91+33]
+
+2025-05-18 19:34:22,065 - WARNING - Erro detectado, iniciando tentativa de reinicialização...
+2025-05-18 19:34:22,066 - INFO - Tentando reiniciar a aplicação após erro...
+2025-05-18 19:34:24,097 - INFO - Driver atual fechado com sucesso.
+2025-05-18 19:34:27,156 - INFO - Navegador reaberto com sucesso.
+2025-05-18 19:34:31,214 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243EB8410>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6/url
+2025-05-18 19:34:35,269 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243D9DE00>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6/url
+2025-05-18 19:34:39,330 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243D9DF30>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6/url
+2025-05-18 19:34:43,372 - ERROR - Erro na execução do Checklist: HTTPConnectionPool(host='localhost', port=51467): Max retries exceeded with url: /session/4f57a39b896e5d0e72e27cbbaf83bdf6/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E61250>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente'))
+2025-05-18 19:34:43,448 - WARNING - Erro detectado, iniciando tentativa de reinicialização...
+2025-05-18 19:34:43,449 - INFO - Tentando reiniciar a aplicação após erro...
+2025-05-18 19:34:47,535 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1E030>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6
+2025-05-18 19:34:51,620 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1E360>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6
+2025-05-18 19:34:55,694 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1E7A0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6
+2025-05-18 19:34:59,754 - INFO - Driver atual fechado com sucesso.
+2025-05-18 19:35:02,825 - INFO - Navegador reaberto com sucesso.
+2025-05-18 19:35:06,898 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1F240>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6/url
+2025-05-18 19:35:10,953 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1F570>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6/url
+2025-05-18 19:35:15,046 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1F8A0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6/url
+2025-05-18 19:35:19,149 - ERROR - Erro na execução do Checklist: HTTPConnectionPool(host='localhost', port=51467): Max retries exceeded with url: /session/4f57a39b896e5d0e72e27cbbaf83bdf6/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1FBD0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente'))
+2025-05-18 19:35:23,311 - WARNING - Erro detectado, iniciando tentativa de reinicialização...
+2025-05-18 19:35:23,311 - INFO - Tentando reiniciar a aplicação após erro...
+2025-05-18 19:35:27,371 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1F020>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6
+2025-05-18 19:35:31,480 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1EAD0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6
+2025-05-18 19:35:35,526 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1ECF0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6
+2025-05-18 19:35:39,583 - INFO - Driver atual fechado com sucesso.
+2025-05-18 19:35:42,621 - INFO - Navegador reaberto com sucesso.
+2025-05-18 19:35:46,691 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019243E1F130>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4f57a39b896e5d0e72e27cbbaf83bdf6/url
+2025-05-18 20:19:04,609 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-18 20:19:47,609 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-05-18 20:20:32,535 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-05-18 20:22:12,248 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-18 21:00:20,054 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C60E89550>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/bcaf4d0ef638fadd4c25d2004abf29e2/url
+2025-05-18 21:00:24,111 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C60F4AFD0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/bcaf4d0ef638fadd4c25d2004abf29e2/url
+2025-05-18 21:00:28,160 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C60F4B390>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/bcaf4d0ef638fadd4c25d2004abf29e2/url
+2025-05-18 21:00:36,414 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C60F16060>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/bcaf4d0ef638fadd4c25d2004abf29e2/url
+2025-05-18 21:00:40,477 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C60FDD130>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/bcaf4d0ef638fadd4c25d2004abf29e2/url
+2025-05-18 21:00:44,554 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C60F9E470>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/bcaf4d0ef638fadd4c25d2004abf29e2/url
+2025-05-18 21:02:48,598 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-18 21:03:24,731 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-05-18 22:04:33,966 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-18 23:14:44,081 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-18 23:15:28,624 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-05-18 23:31:02,289 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-05-19 05:14:48,101 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-19 06:13:10,933 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-21 22:08:58,686 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-21 23:38:26,057 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-21 23:39:11,789 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-05-21 23:54:29,279 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-05-21 23:59:00,233 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-05-22 00:10:15,483 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-05-22 01:02:15,042 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!

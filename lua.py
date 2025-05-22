@@ -25,7 +25,6 @@ import pyperclip
 import logging
 import threading
 
-
 # 🔹 Configurar logging
 logging.basicConfig(filename="app.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -96,12 +95,15 @@ def show_checkmark():
     CTkMessagebox(message="remember to send the checklist",
                   icon="check", option_1="Thanks")
     
+def show_error():
+    # Show some error message
+    CTkMessagebox(title="Error", message="Erro au executar no navegador", icon="cancel")
+    
 # Função para mostrar apenas o frame selecionado
 def mostrar_frame(frame):
     for widget in frame_main.winfo_children():
         widget.pack_forget()  # Esconde todos os widgets no frame_main
     frame.pack(fill="both", expand=True, padx=20, pady=20)  # Mostra apenas o frame selecionado
-
 # Funções para serem chamadas
 def checklist():
     # Obtendo a data e o horário atuais
@@ -125,7 +127,7 @@ def checklist():
     data_url = data_hora.strftime("%Y-%m-%d")
 
     # VARIAVEIS
-    px = f"https://grafana-ocp4.adiq.io/d/f5067f59-9f90-4e0f-b86c-8c2ba32fc3a8/monitor-pix-gw-bancario-geral?orgId=1&from=1740997996000&to=1741040658000&var-dataselecionada={data_url}"
+    px = f"https://grafana-ocp4.adiq.io/d/f5067f59-9f90-4e0f-b86c-8c2ba32fc3a8/monitor-pix-gw-bancario-geral?orgId=1&from=1740997996000&to=1741040658000"
     t_fisico = "✅ [Transacional Físico](https://grafana-monitoring-hml-grafana-monitoring-hml.apps.svs.adiq.local/d/ee9atfdxwhg5cf/visao-geral-transacional-fisico-sniffer-dxc?orgId=1&from=now-30m&to=now&refresh=5s)"
     t_ecommerce = "✅ [Transacional E-commerce](https://grafana-monitoring-hml-grafana-monitoring-hml.apps.svs.adiq.local/d/fe97u788lyneob/visao-geral-transacional-e-commerce?from=now-1h&to=now&orgId=1&refresh=5s)"
     t_unificada = "✅ [Tela Unificada](https://grafana-monitoring-hml-grafana-monitoring-hml.apps.svs.adiq.local/d/eeie77hr8msxsf/4442ba7d-ef52-5118-988d-71a7dd3f9a5a?orgId=1&refresh=1m)"
@@ -706,21 +708,36 @@ checkbox4.pack(pady=5)
 #checkbox5.pack(pady=5)
 
 # Função para executar as tarefas associadas aos itens marcados
-def executar_tarefas():
-    if checkbox_var1.get():
-        checklist()
-        sleep(5)
-    if checkbox_var2.get():
-        pix()
-        sleep(5)
-    if checkbox_var3.get():
-        comparativo()
-        sleep(5)
-    if checkbox_var4.get():
-        adiqPlus()
-        sleep(5)
-    if checkbox_var5.get():
-        tarefa5()
+try:
+    def executar_tarefas():
+        if checkbox_var1.get():
+            try:
+                checklist()
+                sleep(5)
+            except:
+                show_error()
+        if checkbox_var2.get():
+            try:
+                pix()
+                sleep(5)
+            except:
+                show_error()
+        if checkbox_var3.get():
+            try:
+                comparativo()
+                sleep(5)
+            except:
+                show_error()
+        if checkbox_var4.get():
+            try:
+                adiqPlus()
+                sleep(5)
+            except:
+                show_error()
+        if checkbox_var5.get():
+            tarefa5()
+except:
+    show_error()
         
 # Botão dentro do checklist para rodar as funções
 btn_executar_checklist = ctk.CTkButton(frame_checklist, text="Executar Tarefas", command=executar_tarefas)
