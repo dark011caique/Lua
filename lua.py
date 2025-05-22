@@ -138,7 +138,7 @@ def checklist():
     t_zabbix = "✅ [Zabbix](http://radar.adiq.local/zabbix/zabbix.php?action=dashboard.view)"
     t_uptime = "✅ [Uptime](https://dashboard.uptimerobot.com/monitors)"
 
-    def capturar_screenshot(url, path, wait_time=4, click_xpath=None):
+    def capturar_screenshot(url, path, wait_time=6, click_xpath=None):
             driver.get(url)
             WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
             time.sleep(wait_time)
@@ -156,6 +156,7 @@ def checklist():
     capturar_screenshot(
         "https://grafana-monitoring-hml-grafana-monitoring-hml.apps.svs.adiq.local/d/ee9atfdxwhg5cf/visao-geral-transacional-fisico-sniffer-dxc?orgId=1&from=now-30m&to=now&refresh=5s",
         "fisico.png"
+        
     )
     capturar_screenshot(
         "https://grafana-monitoring-hml-grafana-monitoring-hml.apps.svs.adiq.local/d/fe97u788lyneob/visao-geral-transacional-e-commerce?from=now-1h&to=now&orgId=1&refresh=5s",
