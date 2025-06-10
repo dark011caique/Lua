@@ -28,38 +28,71 @@ import threading
 # 🔹 Configurar logging
 logging.basicConfig(filename="app.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# 🔹 Configurar o WebDriver
-chrome_user_data_dir = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
- 
-options = webdriver.ChromeOptions()
-options.add_experimental_option("debuggerAddress", "localhost:9222")  # Conectar ao Chrome aberto
-options.add_argument(f"user-data-dir={chrome_user_data_dir}")
+# POP de alertas na tela 
 
-try: 
-    # Iniciar WebDriver
-    driver = webdriver.Chrome(options=options)
-    print(" entrou no navegador já abertor")
-except Exception:
-    chrome_user_data_dir = r"C:\Users\Win10\AppData\Local\Google\Chrome\User Data"
-    chrome_path = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
-
-    chrome_command = f'"{chrome_path}" --remote-debugging-port=9222 --user-data-dir="C:\\ChromeDebug"'
-
-    try:
-        print("Abrindo o navegador no modo de depuração...")
-        subprocess.Popen(chrome_command, shell=True)
-    except Exception as e:
-
-        print(f"Erro ao abrir o Chrome: {e}")
+def show_checkmark():
+    # Show some positive message with the checkmark icon
+    CTkMessagebox(message="remember to send the checklist",
+                  icon="check", option_1="Thanks")
     
-    sleep(2)
+def show_error():
+    # Show some error message
+    CTkMessagebox(title="Error", message="Erro au executar no navegador, por favor reinicie o sistema", icon="cancel")
+    
+def show_info():
+    # Default messagebox for showing some information
+    CTkMessagebox(title="Info", message="Verificando se há um navegador aberto. Caso não haja, um novo será iniciado. Por favor, aguarde um momento...")
+
+
+def chrome():
+    chrome_user_data_dir = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 
     options = webdriver.ChromeOptions()
     options.add_experimental_option("debuggerAddress", "localhost:9222")
     options.add_argument(f"user-data-dir={chrome_user_data_dir}")
 
-    driver = webdriver.Chrome(options=options)
+    driver = None  # 🔸 Define driver no escopo externo
 
+    try: 
+        driver = webdriver.Chrome(options=options)
+        print("Entrou no navegador já aberto")
+    except Exception:
+        print("Falha ao conectar. Tentando abrir o Chrome no modo de depuração...")
+        chrome_user_data_dir = r"C:\Users\Win10\AppData\Local\Google\Chrome\User Data"
+        chrome_path = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
+
+        chrome_command = f'"{chrome_path}" --remote-debugging-port=9222 --user-data-dir="C:\\ChromeDebug"'
+
+        try:
+            subprocess.Popen(chrome_command, shell=True)
+        except Exception as e:
+            print(f"Erro ao abrir o Chrome: {e}")
+            return None  # Caso falhe, retorna None
+
+        sleep(2)
+
+        options = webdriver.ChromeOptions()
+        options.add_experimental_option("debuggerAddress", "localhost:9222")
+        options.add_argument(f"user-data-dir={chrome_user_data_dir}")
+
+        driver = webdriver.Chrome(options=options)
+    
+    return driver  # 🔸 Retorna o driver para uso externo
+
+driver = chrome()
+
+def path_image():
+
+    imagem = "img"
+
+    # Cria a pasta se ela ainda não existir
+    if not os.path.exists(imagem):
+        os.makedirs(imagem)
+        print(f"Pasta '{imagem}' criada com sucesso!")
+    else:
+        print(f"A pasta '{imagem}' já existe.")
+
+path_image()
 
 # Configuração da janela principal
 ctk.set_appearance_mode("Dark")
@@ -80,6 +113,8 @@ frame_main.pack(side="right", expand=True, fill="both", padx=20, pady=20)
 label_title = ctk.CTkLabel(frame_sidebar, text="ACC Adiq", font=("Arial", 18, "bold"))
 label_title.pack(pady=20)
 
+driver = chrome()
+
 def limpar_screenshots():
     files = ["fisico.png", "ecommerce.png", "unificada.png", "banese.png", "softpass.png", "pix.png", "arquivos.png", "zabbix.png", "uptime.png", "cecommerce.png", "cfisico.png", "wtnet.png", "snifferprd.png"]
     for file in files:
@@ -90,15 +125,6 @@ def limpar_screenshots():
             except:
                 logging.warning(f"Não foi possível remover {file}")
 
-def show_checkmark():
-    # Show some positive message with the checkmark icon
-    CTkMessagebox(message="remember to send the checklist",
-                  icon="check", option_1="Thanks")
-    
-def show_error():
-    # Show some error message
-    CTkMessagebox(title="Error", message="Erro au executar no navegador", icon="cancel")
-    
 # Função para mostrar apenas o frame selecionado
 def mostrar_frame(frame):
     for widget in frame_main.winfo_children():
@@ -155,44 +181,44 @@ def checklist():
     # Capturar screenshots
     capturar_screenshot(
         "https://grafana-monitoring-hml-grafana-monitoring-hml.apps.svs.adiq.local/d/ee9atfdxwhg5cf/visao-geral-transacional-fisico-sniffer-dxc?orgId=1&from=now-30m&to=now&refresh=5s",
-        "fisico.png"
+        "img/fisico.png"
         
     )
     capturar_screenshot(
         "https://grafana-monitoring-hml-grafana-monitoring-hml.apps.svs.adiq.local/d/fe97u788lyneob/visao-geral-transacional-e-commerce?from=now-1h&to=now&orgId=1&refresh=5s",
-        "ecommerce.png"
+        "img/ecommerce.png"
     )
     capturar_screenshot(
         "https://grafana-ocp4.adiq.io/d/uAoTFkJMzr/monitoracao-arquivos-geral-ambiente-de-prd?orgId=1&from=now-1h&to=now&refresh=10s",
-        "arquivos.png"
+        "img/arquivos.png"
     )
     capturar_screenshot(
         "https://adqtrjvpkbn01.adiq.local:5601/app/dashboards#/view/3cf45840-2021-11ee-a5b4-81e7ec0febaf?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-1h,to:now))",
-        "banese.png",
+        "img/banese.png",
         wait_time=8
     )
     capturar_screenshot(
         "https://grafana-monitoring-hml-grafana-monitoring-hml.apps.svs.adiq.local/d/eeie77hr8msxsf/4442ba7d-ef52-5118-988d-71a7dd3f9a5a?orgId=1&refresh=1m",
-        "unificada.png",
+        "img/unificada.png",
         
     )
     capturar_screenshot(
         "https://adqtrjvpkbn01.adiq.local:5601/app/dashboards#/view/73b07c60-2395-11ef-a2fe-31640ea6f96c?_g=(filters:!(),refreshInterval:(pause:!f,value:10000),time:(from:now-24h%2Fh,to:now))",
-        "softpass.png",
+        "img/softpass.png",
         wait_time=8
     )
     capturar_screenshot(
         px,
-        "pix.png",
+        "img/pix.png",
         click_xpath="//span[contains(@class, 'css-1riaxdn') and contains(text(), 'Zoom to data')]"
     )
     capturar_screenshot(
         "http://radar.adiq.local/zabbix/zabbix.php?action=dashboard.view",
-        "zabbix.png"
+        "img/zabbix.png"
     )
     capturar_screenshot(
         "https://dashboard.uptimerobot.com/monitors",
-        "uptime.png"
+        "img/uptime.png"
     )
   
     ######################################################################################################### TEAMS
@@ -276,15 +302,15 @@ Legenda:
             chat_box.send_keys(Keys.SHIFT + Keys.RETURN)
 
         # 🔹 Chamadas para cada imagem
-        copiar_e_enviar_imagem("fisico.png", t_fisico)
-        copiar_e_enviar_imagem("ecommerce.png", t_ecommerce)
-        copiar_e_enviar_imagem("unificada.png", t_unificada)
-        copiar_e_enviar_imagem("banese.png", t_banese)
-        copiar_e_enviar_imagem("softpass.png", t_spftpass)
-        copiar_e_enviar_imagem("pix.png", t_pix)
-        copiar_e_enviar_imagem("arquivos.png", t_atquivos)
-        copiar_e_enviar_imagem("zabbix.png", t_zabbix)
-        copiar_e_enviar_imagem("uptime.png", t_uptime)
+        copiar_e_enviar_imagem("img/fisico.png", t_fisico)
+        copiar_e_enviar_imagem("img/ecommerce.png", t_ecommerce)
+        copiar_e_enviar_imagem("img/unificada.png", t_unificada)
+        copiar_e_enviar_imagem("img/banese.png", t_banese)
+        copiar_e_enviar_imagem("img/softpass.png", t_spftpass)
+        copiar_e_enviar_imagem("img/pix.png", t_pix)
+        copiar_e_enviar_imagem("img/arquivos.png", t_atquivos)
+        copiar_e_enviar_imagem("img/zabbix.png", t_zabbix)
+        copiar_e_enviar_imagem("img/uptime.png", t_uptime)
 
         logging.warning("#CHECKLIST - Mensagem e imagem enviadas no Teams!")
         show_checkmark()
@@ -323,11 +349,11 @@ def pix():
     
     capturar_screenshot(
         "https://grafana-monitoring-hml-grafana-monitoring-hml.apps.svs.adiq.local/d/fekpaesnn26f4b/monitoria-pix-rotina?orgId=1&refresh=5s",
-        "pix_prd.png"
+        "img/pix_prd.png"
     )
     capturar_screenshot(
         px,
-        "pix.png",
+        "img/pix.png",
         click_xpath="//span[contains(@class, 'css-1riaxdn') and contains(text(), 'Zoom to data')]"
     )
 
@@ -386,8 +412,8 @@ def pix():
             chat_box.send_keys(Keys.SHIFT + Keys.RETURN)
             
         
-        copiar_e_enviar_imagem("pix.png", "ACC INFORMA:")
-        copiar_e_enviar_imagem("pix_prd.png", "Monitoria PIX - Rotina")
+        copiar_e_enviar_imagem("img/pix.png", "ACC INFORMA:")
+        copiar_e_enviar_imagem("img/pix_prd.png", "Monitoria PIX - Rotina")
 
         sleep(3)
         enviar = driver.find_element(By.XPATH, '//button[@title="Enviar (Ctrl+Enter)" and @name="send"]')
@@ -461,12 +487,12 @@ def comparativo():
 
     capturar_screenshot(
         cecomerce,
-        "cecommerce.png"
+        "img/cecommerce.png"
     )
 
     capturar_screenshot(
         cfisicos,
-        "cfisico.png"
+        "img/cfisico.png"
     )
 
 
@@ -532,8 +558,8 @@ def comparativo():
             chat_box.send_keys(Keys.SHIFT + Keys.RETURN)
             chat_box.send_keys(Keys.SHIFT + Keys.RETURN)
         
-        copiar_e_enviar_imagem("cfisico.png", "Físico:")
-        copiar_e_enviar_imagem("cecommerce.png", "E-commerce:")
+        copiar_e_enviar_imagem("img/cfisico.png", "Físico:")
+        copiar_e_enviar_imagem("img/cecommerce.png", "E-commerce:")
 
         sleep(3)
         
@@ -594,7 +620,7 @@ def adiqPlus():
     driver.get(wtnet)
     time.sleep(10)
 
-    wtnet_path = "wtnet.png"
+    wtnet_path = "img/wtnet.png"
     driver.save_screenshot(wtnet_path)
 
     time.sleep(1)
@@ -603,7 +629,7 @@ def adiqPlus():
     driver.get(esnifferprd)
     time.sleep(10)
 
-    snifferprd_path = "snifferprd.png"
+    snifferprd_path = "img/snifferprd.png"
     driver.save_screenshot(snifferprd_path)
     time.sleep(2)
 
@@ -670,8 +696,8 @@ def adiqPlus():
             chat_box.send_keys(Keys.SHIFT + Keys.RETURN)
             chat_box.send_keys(Keys.SHIFT + Keys.RETURN)
         
-        copiar_e_enviar_imagem("wtnet.png", "Origem WTnet:")
-        copiar_e_enviar_imagem("snifferprd.png", "Eagle Sniffer (PRD):")
+        copiar_e_enviar_imagem("img/wtnet.png", "Origem WTnet:")
+        copiar_e_enviar_imagem("img/snifferprd.png", "Eagle Sniffer (PRD):")
 
         sleep(3)
         enviar = driver.find_element(By.XPATH, '//button[@title="Enviar (Ctrl+Enter)" and @name="send"]')
