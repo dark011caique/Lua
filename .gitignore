@@ -1,5 +1,5 @@
 venv/
-app.log
+.app.log
 api.py
 a.py
 arquivos.png
@@ -26,3 +26,4 @@ snifferprd.png
 mensagens_selecionadas.txt
 teste/
 build/
+app.log/
