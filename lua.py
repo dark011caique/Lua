@@ -12,6 +12,7 @@ import win32clipboard  # Biblioteca para copiar a imagem para a área de transfe
 from datetime import datetime, timedelta
 from time import sleep
 import time
+#import tkinter as tk
 import customtkinter as ctk
 from CTkMessagebox import CTkMessagebox
 from tkinter import filedialog, messagebox
@@ -21,23 +22,35 @@ import subprocess
 import re
 import io
 import os
+import shutil
 import pyperclip
 import logging
 import threading
+from pathlib import Path
+from watchdog.observers import Observer
+from watchdog.events import FileSystemEventHandler
+from pathlib import Path
+from datetime import datetime, timedelta
+import shutil
+import customtkinter as ctk
+from tkinter import filedialog, messagebox, StringVar, BooleanVar
 
+
+subprocess.Popen(r"C:\Users\ADQT0141\OneDrive - Banco BS2\Área de Trabalho\Lua\dist\monitoramento.exe")
 # 🔹 Configurar logging
 logging.basicConfig(filename="app.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # POP de alertas na tela 
 
-def show_checkmark():
+
+def show_checkmark(self):
     # Show some positive message with the checkmark icon
-    CTkMessagebox(message="remember to send the checklist",
+    CTkMessagebox(message=self,
                   icon="check", option_1="Thanks")
     
-def show_error():
+def show_error(mensagem):
     # Show some error message
-    CTkMessagebox(title="Error", message="Erro au executar no navegador, por favor reinicie o sistema", icon="cancel")
+    CTkMessagebox(title="Error", message=mensagem, icon="cancel")
     
 def show_info():
     # Default messagebox for showing some information
@@ -313,7 +326,7 @@ Legenda:
         copiar_e_enviar_imagem("img/uptime.png", t_uptime)
 
         logging.warning("#CHECKLIST - Mensagem e imagem enviadas no Teams!")
-        show_checkmark()
+        show_checkmark("remember to send the checklist")
 
     except Exception as e:
         messagebox.showerror(f"❌ Erro ao enviar mensagem e imagem: {e}")
@@ -350,6 +363,11 @@ def pix():
     capturar_screenshot(
         "https://grafana-monitoring-hml-grafana-monitoring-hml.apps.svs.adiq.local/d/fekpaesnn26f4b/monitoria-pix-rotina?orgId=1&refresh=5s",
         "img/pix_prd.png"
+    )
+    capturar_screenshot(
+        "https://adqtrjvpkbn01.adiq.local:5601/app/dashboards#/view/258de11b-8b70-4481-a058-e08ea1277df2?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-1h,to:now))",
+        "img/pix_status.png",
+        wait_time=8
     )
     capturar_screenshot(
         px,
@@ -414,6 +432,7 @@ def pix():
         
         copiar_e_enviar_imagem("img/pix.png", "ACC INFORMA:")
         copiar_e_enviar_imagem("img/pix_prd.png", "Monitoria PIX - Rotina")
+        copiar_e_enviar_imagem("img/pix_status.png", "STATUS Erro 500 - PIX")
 
         sleep(3)
         enviar = driver.find_element(By.XPATH, '//button[@title="Enviar (Ctrl+Enter)" and @name="send"]')
@@ -770,6 +789,7 @@ except:
 btn_executar_checklist = ctk.CTkButton(frame_checklist, text="Executar Tarefas", command=executar_tarefas)
 btn_executar_checklist.pack(pady=20)
 
+# =========================================  MENU LUA ================================================
 
 # Frame inicial
 frame_home = ctk.CTkFrame(frame_main)
@@ -847,8 +867,9 @@ text_box.insert("1.0", manual_text)
 # Exibir o frame inicial por padrão
 mostrar_frame(frame_home)
 
-# frame whatsapp
+# ================================ WHATSAPP ======================================================
 
+# frame whatsapp
 data_hora = datetime.now()
 
 # Arredondando o horário
@@ -1110,8 +1131,9 @@ btn_enviar_mensagens.pack(pady=10)
 btn_alterar_checklist = ctk.CTkButton(frame_whatsapp, text="Alterar Mensagens", command=alterar_icone_na_tela)
 btn_alterar_checklist.pack(pady=10)
 
-
 selected_file = None  # Variável para armazenar o caminho do arquivo
+
+# =========================== PROCESSAMENTO PIX =====================================
 
 # Função para selecionar o arquivo
 def upload_file():
@@ -1220,6 +1242,292 @@ button_copy.pack(pady=10)
 result_text = ctk.CTkTextbox(frame_pix_fechamento, height=200, width=700)  # Caixa de texto com rolagem
 result_text.pack(pady=10)
 
+# ========================== ARQUIVOS RECEBIDOS DA FROG =============================================
+
+frame_frog = ctk.CTkFrame(frame_main)
+
+label_titulo = ctk.CTkLabel(frame_frog, text="Monitoramento de Arquivos - Frog Pay", font=("Arial", 24, "bold"))
+label_titulo.pack(pady=20)
+
+# Caminho da pasta
+folder_path = Path(r"\\adqtspvpfs01\appfiles\Adquirencia\Legados\Sub\FP\Entrada\ENV_OK_FP")
+
+tipos = {
+    'Antecipação': 'A',
+    'Debito': 'D',
+    'Credito': 'C'
+}
+
+entry_refs = {}
+
+for nome, sigla in tipos.items():
+    label = ctk.CTkLabel(frame_frog, text=f"{nome}:", anchor="w", font=("Arial", 14))
+    label.pack(pady=(5, 0), anchor="w", padx=20)
+
+    entry = ctk.CTkEntry(frame_frog, width=500)
+    entry.pack(pady=5, padx=20)
+    entry.configure(state="disabled")
+    entry_refs[sigla] = entry
+
+# ========== FUNÇÃO DE CONTAGEM ==========
+def atualizar_contagem():
+    hoje = datetime.now().strftime("%Y%m%d")
+    for tipo, sigla in tipos.items():
+        pattern = f"ADQ001_{sigla}_FP_{hoje}_*_*.txt"
+        try:
+            count = len(list(folder_path.glob(pattern)))
+            entry = entry_refs[sigla]
+            entry.configure(state="normal")
+            entry.delete(0, 'end')
+            entry.insert(0, f"{count} arquivo(s)")
+            entry.configure(state="disabled")
+        except Exception:
+            entry = entry_refs[sigla]
+            entry.configure(state="normal")
+            entry.delete(0, 'end')
+            entry.insert(0, "Erro ao acessar")
+            entry.configure(state="disabled")
+
+# ========== MONITORAMENTO ==========
+class NovoArquivoHandler(FileSystemEventHandler):
+    def on_created(self, event):
+        if event.src_path.endswith(".txt"):
+            time.sleep(0.5)
+            app.after(100, atualizar_contagem)
+
+def iniciar_monitoramento():
+    event_handler = NovoArquivoHandler()
+    observer = Observer()
+    observer.schedule(event_handler, str(folder_path), recursive=False)
+    observer.start()
+    return observer
+
+observer = iniciar_monitoramento()
+
+# Botão para atualizar manualmente
+btn_frog = ctk.CTkButton(frame_frog, text="Frog Pay", command=atualizar_contagem)
+btn_frog.pack(pady=20)
+
+
+# ================= Frame da aba ==================
+frame_mover_arquivos = ctk.CTkFrame(frame_main)
+
+# ================= Dados dos caminhos ==================
+BANDEIRAS = {
+    "Mastercard": {
+        "origem": [Path(r"\\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\BACKUP")],
+        "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM/Mastercard",
+        "mascaras": ["PRD_MST_T140_D{0}.*_A001", "PRD_MST_T140_D{0}.*_A002", "PRD_MST_T140_D{0}.*_A003"]
+    },
+    "Hipercard": {
+        "origem": [Path(r"\\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE")],
+        "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM/Hipercard",
+        "mascaras": ["PRD_HIP_T140_D{0}.*_A001", "PRD_HIP_T140_D{0}.*_A002", "PRD_HIP_T140_D{0}.*_A003"]
+    },
+    "Elo": {
+        "origem": [
+            Path(r"\\adqtspvpfs01\Integracao\Connect\ELO\RECEBE"),
+            Path(r"\\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\BACKUP")
+        ],
+        "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM/ELO",
+        "mascaras": [
+            "AGECRED_C_5190_{0}_*.TXT", "AGECRED_D_5190_{0}_*.TXT",
+            "AGECRED_C_5030_{0}_*.TXT", "AGECRED_D_5030_{0}_*.TXT"
+        ]
+    },
+    "Amex": {
+        "origem": [Path(r"\\adqtspvpfs01\appfiles\PAC_PRD\INCOMING\AMEX")],
+        "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM/AMEX/AMEX-INCOMING",
+        "mascaras": []
+    }
+}
+
+# ================= Variáveis globais ==================
+copied_files = []
+arquivos_para_copiar = {}
+log_path = ""
+stop_process = False
+
+
+# ================= Funções ==================
+
+def log(mensagem):
+    if log_path:
+        with open(log_path, "a", encoding="utf-8") as f:
+            f.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - {mensagem}\n")
+
+
+def add_status(text):
+    text_status.configure(state="normal")
+    text_status.insert("end", text + "\n")
+    text_status.see("end")
+    text_status.configure(state="disabled")
+
+
+log_path = None  # variável global
+
+def selecionar_log():
+    global log_path
+
+    # ✅ Caminho fixo informado por você
+    log_dir = r"C:\Users\ADQT0141\OneDrive - Banco BS2\Área de Trabalho\Lua"
+
+    # ✅ Garante que a pasta exista
+    os.makedirs(log_dir, exist_ok=True)
+
+    # ✅ Nome automático com timestamp
+    log_filename = f"CopiaArquivos_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+    log_path = os.path.join(log_dir, log_filename)
+
+    # ✅ Cria o log com a primeira entrada
+    log(f"Arquivo de log criado automaticamente em: {log_path}")
+
+
+
+def verificar_arquivos():
+    arquivos_para_copiar.clear()
+    text_status.configure(state="normal")
+    text_status.delete("1.0", "end")
+    add_status("Iniciando verificação de arquivos...")
+    log("=== Início da verificação ===")
+
+    hoje_yyMMdd = datetime.now().strftime('%y%m%d')
+    hoje_yyyMMdd = datetime.now().strftime('%Y%m%d')
+
+    for nome, dados in BANDEIRAS.items():
+        if not chk_bandeiras[nome].get():
+            continue
+
+        arquivos = []
+
+        for origem in dados['origem']:
+            if nome == "Amex":
+                data_pasta = (datetime.now() - timedelta(days=1)).strftime('%Y.%m.%d')
+                pasta_origem = origem / data_pasta
+                if pasta_origem.exists() and pasta_origem.is_dir():
+                    arquivos_para_copiar[nome] = [pasta_origem]
+                    msg = f"Pasta encontrada para {nome}: {pasta_origem}"
+                else:
+                    msg = f"Nenhuma pasta encontrada para {nome} com nome {data_pasta}."
+                log(msg)
+                add_status(msg)
+            else:
+                data_formatada = hoje_yyMMdd if nome in ["Hipercard", "Mastercard"] else hoje_yyyMMdd
+                for mascara in dados['mascaras']:
+                    padrao = mascara.format(data_formatada)
+                    arquivos.extend(origem.glob(padrao))
+
+        if arquivos:
+            arquivos_para_copiar[nome] = arquivos
+            msg = f"{len(arquivos)} arquivos encontrados para {nome}."
+        else:
+            msg = f"Nenhum arquivo encontrado para {nome}."
+        log(msg)
+        add_status(msg)
+
+    log("=== Fim da verificação ===")
+    add_status("Verificação concluída.")
+
+
+def iniciar_copia():
+    global stop_process
+    stop_process = False
+    copied_files.clear()
+
+    total = sum(len(v) for v in arquivos_para_copiar.values())
+    atual = 0
+
+    for nome, itens in arquivos_para_copiar.items():
+        destino = BANDEIRAS[nome]['destino']
+        if not itens:
+            continue
+        if not messagebox.askyesno("Confirmação", f"Deseja copiar arquivos para {nome}?"):
+            continue
+        for item in itens:
+            if stop_process:
+                return
+            try:
+                destino.mkdir(parents=True, exist_ok=True)
+                dest_path = destino / item.name
+                if dest_path.exists():
+                    msg = f"Arquivo ou pasta já existe e não será copiado: {dest_path}"
+                    log(msg)
+                    add_status(msg)
+                    continue
+                if item.is_dir():
+                    shutil.copytree(item, dest_path)
+                else:
+                    shutil.copy2(item, dest_path)
+                copied_files.append(dest_path)
+                atual += 1
+                msg = f"Copiado: {item}"
+                log(msg)
+                add_status(msg)
+                barra_var.set(f"Progresso: {atual}/{total}")
+                frame_mover_arquivos.update_idletasks()
+            except Exception as e:
+                log(f"Erro ao copiar {item}: {str(e)}")
+                messagebox.showerror("Erro", f"Erro ao copiar {item}: {str(e)}")
+
+
+def desfazer():
+    if not copied_files:
+        messagebox.showinfo("Info", "Nenhum arquivo para desfazer.")
+        return
+    if not messagebox.askyesno("Confirmação", "Deseja desfazer as cópias realizadas?"):
+        return
+    for f in copied_files:
+        try:
+            f.unlink()
+            log(f"Removido no rollback: {f}")
+        except Exception as e:
+            log(f"Erro ao remover {f}: {str(e)}")
+    copied_files.clear()
+    add_status("Rollback executado: arquivos removidos.")
+    messagebox.showinfo("Rollback", "Arquivos removidos com sucesso.")
+
+
+# def parar():
+#     global stop_process
+#     stop_process = True
+#     add_status("Processo interrompido pelo usuário.")
+#     log("Processo interrompido pelo usuário.")
+
+
+# ================= Layout ==================
+
+# 👉 Área esquerda (botões + checklist)
+frame_left = ctk.CTkFrame(frame_mover_arquivos)
+frame_left.pack(side="left", fill="y", padx=10, pady=10)
+
+btn_verificar = ctk.CTkButton(frame_left, text="Verificar Arquivos", command=lambda: [selecionar_log(), verificar_arquivos()])
+btn_verificar.pack(pady=5, fill='x')
+
+btn_iniciar = ctk.CTkButton(frame_left, text="Iniciar Cópia", command=iniciar_copia)
+btn_iniciar.pack(pady=5, fill='x')
+
+# btn_parar = ctk.CTkButton(frame_left, text="Parar Processo", command=parar)
+# btn_parar.pack(pady=5, fill='x')
+
+btn_desfazer = ctk.CTkButton(frame_left, text="Desfazer Cópia", command=desfazer)
+btn_desfazer.pack(pady=5, fill='x')
+
+chk_bandeiras = {nome: BooleanVar(value=True) for nome in BANDEIRAS}
+for nome in chk_bandeiras:
+    chk = ctk.CTkCheckBox(frame_left, text=nome, variable=chk_bandeiras[nome])
+    chk.pack(anchor='w', pady=5)
+
+
+# 👉 Área direita (status)
+frame_right = ctk.CTkFrame(frame_mover_arquivos)
+frame_right.pack(fill="both", expand=True, padx=10, pady=10)
+
+text_status = ctk.CTkTextbox(frame_right, height=20, state='disabled')
+text_status.pack(fill='both', expand=True)
+
+barra_var = StringVar(value="Progresso: 0/0")
+label_progress = ctk.CTkLabel(frame_mover_arquivos, textvariable=barra_var, font=("Consolas", 12))
+label_progress.pack(side="bottom", fill="x", pady=5)
 
 # Botões da sidebar
 btn_home = ctk.CTkButton(frame_sidebar, text="Home", fg_color="gray30", hover_color="gray40", command=lambda: mostrar_frame(frame_home))
@@ -1233,6 +1541,13 @@ btn_whatsapp.pack(fill="x", pady=5, padx=10)
 
 btn_pix_fechamento = ctk.CTkButton(frame_sidebar, text="Fechamento pix", fg_color="gray30", hover_color="gray40", command=lambda: mostrar_frame(frame_pix_fechamento))
 btn_pix_fechamento.pack(fill="x", pady=5, padx=10)
+
+btn_frog = ctk.CTkButton(frame_sidebar, text="Frog Pay", fg_color="gray30", hover_color="gray40", command=lambda: mostrar_frame(frame_frog))
+btn_frog.pack(fill="x", pady=5, padx=10)
+
+
+btn_mover_arquivos = ctk.CTkButton(frame_sidebar, text="Movimentação de arquivos ", fg_color="gray30", hover_color="gray40", command=lambda: mostrar_frame(frame_mover_arquivos))
+btn_mover_arquivos.pack(fill="x", pady=5, padx=10)
 
 # Botão do sistema
 btn_system = ctk.CTkOptionMenu(frame_sidebar, values=["System"])

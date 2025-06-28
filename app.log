@@ -293,3 +293,156 @@ Stacktrace:
 2025-05-31 05:30:46,113 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
 2025-06-04 19:25:34,101 - WARNING - Erro ao clicar no zoom PIX https://grafana-ocp4.adiq.io/d/f5067f59-9f90-4e0f-b86c-8c2ba32fc3a8/monitor-pix-gw-bancario-geral?orgId=1&from=1740997996000&to=1741040658000
 2025-06-04 19:26:20,383 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-13 19:19:57,239 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-13 20:08:27,877 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-13 20:09:11,989 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-13 20:09:59,045 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-13 21:39:29,601 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-13 23:00:08,163 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-13 23:02:44,463 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-13 23:03:29,780 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-13 23:47:25,594 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-14 03:02:20,182 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-14 04:05:10,541 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-14 05:16:20,474 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-14 06:04:50,492 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-15 23:14:42,320 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-18 20:13:21,871 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000278AA935220>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/dba3a1f06b290c24748513659b58dcc6/url
+2025-06-18 20:15:27,416 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-18 20:16:09,997 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-18 20:16:54,659 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-18 21:10:25,770 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-18 21:11:23,431 - WARNING - Erro ao clicar no zoom PIX https://grafana-ocp4.adiq.io/d/f5067f59-9f90-4e0f-b86c-8c2ba32fc3a8/monitor-pix-gw-bancario-geral?orgId=1&from=1740997996000&to=1741040658000&var-dataselecionada=2025-06-18
+2025-06-18 21:13:35,952 - WARNING - Erro ao clicar no zoom PIX https://grafana-ocp4.adiq.io/d/f5067f59-9f90-4e0f-b86c-8c2ba32fc3a8/monitor-pix-gw-bancario-geral?orgId=1&from=1740997996000&to=1741040658000&var-dataselecionada=2025-06-18
+2025-06-18 21:17:18,712 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-18 21:18:24,758 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-18 21:21:58,645 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-18 21:22:59,430 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-18 21:23:59,668 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-18 21:26:00,028 - WARNING - \u274c Erro ao enviar mensagem e imagem: [Errno 2] No such file or directory: 'img/pix_status'
+2025-06-18 21:27:28,067 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-18 21:30:28,579 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-18 22:00:51,775 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-18 23:18:02,247 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-18 23:18:46,648 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-18 23:41:22,261 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-18 23:58:10,099 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-19 00:03:18,220 - WARNING - Erro ao clicar no zoom PIX https://grafana-ocp4.adiq.io/d/f5067f59-9f90-4e0f-b86c-8c2ba32fc3a8/monitor-pix-gw-bancario-geral?orgId=1&from=1740997996000&to=1741040658000
+2025-06-19 00:04:08,454 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-19 01:34:44,473 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-19 06:22:12,967 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-19 19:20:20,137 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-19 20:02:16,330 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-19 20:03:00,795 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-19 20:03:46,709 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-19 21:02:49,657 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-19 21:03:34,076 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-19 22:31:38,571 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-19 23:07:00,295 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-19 23:07:42,693 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-19 23:58:16,867 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-19 23:59:16,932 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-20 00:21:54,517 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-20 05:25:47,303 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-20 06:12:18,944 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-23 22:44:08,593 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-23 23:14:47,225 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-23 23:15:31,489 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-23 23:47:27,211 - WARNING - Erro ao clicar no zoom PIX https://grafana-ocp4.adiq.io/d/f5067f59-9f90-4e0f-b86c-8c2ba32fc3a8/monitor-pix-gw-bancario-geral?orgId=1&from=1740997996000&to=1741040658000&var-dataselecionada=2025-06-24
+2025-06-23 23:47:48,143 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-24 00:09:09,013 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-24 00:16:59,617 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-24 01:16:36,458 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-24 05:06:31,732 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-24 06:06:33,280 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-24 19:30:21,379 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-24 19:31:56,760 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 19:32:06,301 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-24 19:39:09,136 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 19:39:18,633 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-24 19:44:10,164 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 19:45:11,466 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 19:45:22,935 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-24 19:45:31,906 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-24 19:47:59,784 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 19:48:11,556 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-24 19:48:40,706 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 19:48:52,215 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-24 19:53:30,451 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-24 19:53:50,419 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-24 19:53:58,410 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-24 19:54:06,676 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-24 19:54:18,317 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-24 19:54:26,530 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-24 19:54:38,030 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-24 19:54:46,712 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-24 19:54:54,162 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-24 19:55:03,683 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-24 19:55:39,878 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-24 20:03:11,978 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 20:03:37,902 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 20:03:49,350 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-24 20:05:23,874 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 20:05:35,512 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-24 20:05:52,274 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 20:06:03,785 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-24 20:06:12,462 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-24 20:07:14,174 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 20:07:36,746 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 20:07:48,241 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-24 20:07:56,968 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-24 20:20:03,696 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-06-24 20:20:30,411 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-06-24 20:20:44,328 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-06-24 20:21:03,428 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-24 20:21:49,395 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-24 20:30:02,410 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-06-24 21:01:04,430 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-24 21:01:12,465 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-24 21:01:21,069 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-24 21:01:32,604 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-24 21:01:40,692 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-24 21:01:52,186 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-24 21:02:00,982 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-24 21:02:08,464 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-24 21:02:17,646 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-24 21:02:54,065 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-24 21:03:07,572 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-24 21:03:19,003 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-24 21:03:27,729 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-24 21:03:45,035 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-24 21:04:53,930 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-24 21:05:01,787 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-24 21:05:09,995 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-24 21:05:21,589 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-27 21:01:43,261 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-27 21:01:51,808 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-27 21:01:58,619 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-27 21:02:14,892 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-27 21:13:58,019 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-27 21:14:02,842 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-27 21:14:08,073 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-27 21:14:16,570 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-27 21:14:21,490 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-27 21:14:29,966 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-27 21:14:35,482 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-27 21:14:39,858 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-27 21:14:46,160 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-27 21:15:25,687 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-27 23:23:37,227 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-27 23:23:42,140 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-27 23:23:47,444 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-27 23:23:55,981 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-27 23:24:00,916 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-27 23:24:09,271 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-27 23:24:14,842 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-27 23:24:19,209 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-27 23:24:46,373 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-27 23:25:23,644 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-27 23:25:33,927 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-27 23:25:42,316 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-27 23:25:50,923 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-27 23:26:08,984 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-27 23:26:24,459 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-06-27 23:26:34,583 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-06-27 23:26:50,672 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
