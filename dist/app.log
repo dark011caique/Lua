@@ -228,3 +228,2461 @@
 2025-06-27 20:23:16,208 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
 2025-06-27 20:23:29,449 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
 2025-06-27 20:23:45,684 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-28 19:43:20,733 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-28 19:43:25,648 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-28 19:43:31,010 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-28 19:43:39,404 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-28 19:43:44,276 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-28 19:44:31,151 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-28 19:44:36,081 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-28 19:44:41,330 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-28 19:44:49,667 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-28 19:44:54,690 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-28 19:45:03,056 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-28 19:45:08,655 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-28 19:45:13,017 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-28 19:45:21,286 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-28 19:46:01,040 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-28 21:11:34,488 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-28 21:11:39,589 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-28 21:11:45,316 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-28 21:11:53,974 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-28 21:11:59,168 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-28 21:12:07,653 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-28 21:12:13,650 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-28 21:12:18,152 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-28 21:12:24,908 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-28 21:13:05,219 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-28 21:13:15,936 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-28 21:13:24,492 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-28 21:13:30,630 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-28 21:13:51,756 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-28 23:36:04,386 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-28 23:36:09,475 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-28 23:36:15,108 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-28 23:36:23,759 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-28 23:36:29,033 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-28 23:36:37,503 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-28 23:36:43,463 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-28 23:36:48,060 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-28 23:36:54,843 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-28 23:37:37,588 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-28 23:37:48,189 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-28 23:37:56,667 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-28 23:38:12,202 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61923cda5+78885]
+	GetHandleVerifier [0x0x7ff61923ce00+78976]
+	(No symbol) [0x0x7ff618ff9bca]
+	(No symbol) [0x0x7ff619050766]
+	(No symbol) [0x0x7ff619050a1c]
+	(No symbol) [0x0x7ff6190a4467]
+	(No symbol) [0x0x7ff619078bcf]
+	(No symbol) [0x0x7ff6190a122f]
+	(No symbol) [0x0x7ff619078963]
+	(No symbol) [0x0x7ff6190416b1]
+	(No symbol) [0x0x7ff619042443]
+	GetHandleVerifier [0x0x7ff619514eed+3061101]
+	GetHandleVerifier [0x0x7ff61950f33d+3037629]
+	GetHandleVerifier [0x0x7ff61952e592+3165202]
+	GetHandleVerifier [0x0x7ff61925730e+186766]
+	GetHandleVerifier [0x0x7ff61925eb3f+217535]
+	GetHandleVerifier [0x0x7ff6192459b4+114740]
+	GetHandleVerifier [0x0x7ff619245b69+115177]
+	GetHandleVerifier [0x0x7ff61922c368+10728]
+	BaseThreadInitThunk [0x0x7fffed5d7374+20]
+	RtlUserThreadStart [0x0x7fffed71cc91+33]
+
+2025-06-28 23:38:12,294 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-28 23:38:31,943 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-28 23:38:47,752 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-06-28 23:38:57,924 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-06-28 23:39:16,376 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-28 23:57:29,369 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-06-28 23:57:39,552 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-06-28 23:57:56,706 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-29 01:00:48,042 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-29 01:00:53,179 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-29 01:00:59,135 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-29 01:01:07,861 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-29 01:01:13,166 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-29 01:01:21,671 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-29 01:01:27,908 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 01:01:32,451 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-29 01:01:39,084 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-29 01:02:20,333 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-29 01:59:32,981 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-29 01:59:37,788 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-29 01:59:43,215 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-29 01:59:51,727 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-29 01:59:56,684 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-29 02:00:05,036 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-29 02:00:10,600 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 02:00:14,986 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-29 02:00:42,027 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-29 02:01:15,154 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-29 04:08:25,973 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-29 04:08:30,880 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-29 04:08:36,223 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-29 04:08:44,710 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-29 04:08:50,011 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-29 04:08:58,521 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-29 04:09:04,168 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 04:09:08,592 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-29 04:09:15,073 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-29 04:09:56,324 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-29 05:28:47,633 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-29 05:28:52,573 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-29 05:28:57,946 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-29 05:29:06,438 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-29 05:29:11,474 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-29 05:29:19,861 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-29 05:29:25,498 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 05:29:29,886 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-29 05:29:36,319 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-29 05:30:15,571 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-29 19:05:48,805 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-29 19:05:53,977 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-29 19:05:59,491 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-29 19:06:08,005 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-29 19:06:13,360 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-29 19:06:21,844 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-29 19:06:27,872 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 19:06:32,442 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-29 19:06:38,481 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-29 19:07:23,638 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-29 20:11:26,408 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-29 20:11:31,257 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-29 20:11:36,612 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-29 20:11:45,115 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-29 20:11:50,504 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-29 20:11:58,911 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-29 20:12:04,438 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 20:12:08,817 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-29 20:12:35,845 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-29 20:13:12,919 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-29 20:13:31,395 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-29 20:13:36,223 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-29 20:13:41,368 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-29 20:13:49,765 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-29 20:13:54,698 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-29 20:14:03,075 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-29 20:14:08,656 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 20:14:12,994 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-29 20:14:18,563 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-29 20:14:51,067 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-29 20:17:37,821 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-06-29 20:17:47,931 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-06-29 20:18:04,080 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-29 20:18:19,545 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-06-29 20:18:29,686 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-06-29 20:18:45,772 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-29 21:21:46,772 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-29 21:21:51,821 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-29 21:21:57,558 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-29 21:22:06,359 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-29 21:22:11,537 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-29 21:22:20,041 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-29 21:22:25,965 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 21:22:30,469 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-29 21:22:37,182 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-29 21:23:15,626 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-29 21:23:26,335 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-29 21:23:34,901 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-29 21:23:41,118 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 21:24:00,293 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-29 22:05:20,968 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-29 22:05:26,045 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-29 22:05:31,727 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-29 22:05:40,455 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-29 22:05:45,737 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-29 22:05:54,199 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-29 22:06:00,092 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 22:06:04,671 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-29 22:06:11,455 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-29 22:06:50,760 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-29 23:51:33,422 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-29 23:51:38,629 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-29 23:51:44,515 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-29 23:51:53,242 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-29 23:51:58,362 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-29 23:52:06,861 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-29 23:52:12,781 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 23:52:17,275 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-29 23:52:45,096 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-29 23:53:27,851 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-29 23:53:38,402 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-06-29 23:53:46,916 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-06-29 23:53:52,834 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-29 23:54:11,551 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-06-29 23:54:27,259 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-06-29 23:54:37,453 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-06-29 23:54:55,899 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-06-29 23:55:11,492 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-06-29 23:55:21,704 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-06-29 23:55:40,918 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-06-30 00:29:41,960 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-30 00:29:46,901 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-30 00:29:52,340 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-30 00:30:00,896 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-30 00:30:05,875 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-30 00:30:14,295 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-30 00:30:19,959 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-30 00:30:24,366 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-30 00:30:51,214 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-30 00:31:34,846 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-30 04:04:34,642 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-30 04:04:39,541 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-30 04:04:45,155 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-30 04:04:53,782 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-30 04:04:58,862 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-30 04:05:07,268 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-30 04:05:13,008 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-30 04:05:17,471 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-30 04:05:44,655 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-30 04:06:39,119 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-06-30 05:08:00,071 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-06-30 05:08:04,991 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-06-30 05:08:10,428 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-06-30 05:08:18,978 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-06-30 05:08:24,155 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-06-30 05:08:32,674 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-06-30 05:08:38,319 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-06-30 05:08:42,756 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-06-30 05:09:09,831 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-06-30 05:09:47,021 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-02 20:09:37,024 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-02 20:09:41,896 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-02 20:09:47,375 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-02 20:09:55,749 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-02 20:10:00,691 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-02 20:10:09,076 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-02 20:10:14,736 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-02 20:10:19,110 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-02 20:10:24,570 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-02 20:10:56,170 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-02 20:11:11,846 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-02 20:11:21,953 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-02 20:11:38,339 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-02 20:11:53,845 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-02 20:12:03,971 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-02 20:12:20,004 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-02 21:13:09,731 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-02 21:13:14,941 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-02 21:13:20,786 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-02 21:13:29,454 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-02 21:13:34,557 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-02 21:13:43,058 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-02 21:13:48,946 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-02 21:13:53,469 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-02 21:14:00,335 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-02 21:14:43,031 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-02 21:14:53,558 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-02 21:15:02,096 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-02 21:15:08,763 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-02 21:15:29,538 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-02 22:52:27,492 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-02 22:52:32,535 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-02 22:52:38,354 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-02 22:52:47,040 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-02 22:52:52,200 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-02 22:53:00,686 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-02 22:53:06,695 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-02 22:53:11,213 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-02 22:53:18,127 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-02 22:54:02,940 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-02 22:55:02,349 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-02 22:55:07,381 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-02 22:55:12,854 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-02 22:55:21,438 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-02 22:55:26,527 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-02 22:55:34,985 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-02 22:55:40,914 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-02 22:55:45,379 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-02 22:55:51,394 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-02 22:56:31,090 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-02 23:34:07,339 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-02 23:34:12,416 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-02 23:34:18,040 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-02 23:34:26,671 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-02 23:34:31,783 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-02 23:34:40,317 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-02 23:34:47,404 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-02 23:34:51,955 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-02 23:35:19,202 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-02 23:35:58,585 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-02 23:36:09,267 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-02 23:36:17,734 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-02 23:36:33,353 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7f268cda5+78885]
+	GetHandleVerifier [0x0x7ff7f268ce00+78976]
+	(No symbol) [0x0x7ff7f2449bca]
+	(No symbol) [0x0x7ff7f24a0766]
+	(No symbol) [0x0x7ff7f24a0a1c]
+	(No symbol) [0x0x7ff7f24f4467]
+	(No symbol) [0x0x7ff7f24c8bcf]
+	(No symbol) [0x0x7ff7f24f122f]
+	(No symbol) [0x0x7ff7f24c8963]
+	(No symbol) [0x0x7ff7f24916b1]
+	(No symbol) [0x0x7ff7f2492443]
+	GetHandleVerifier [0x0x7ff7f2964eed+3061101]
+	GetHandleVerifier [0x0x7ff7f295f33d+3037629]
+	GetHandleVerifier [0x0x7ff7f297e592+3165202]
+	GetHandleVerifier [0x0x7ff7f26a730e+186766]
+	GetHandleVerifier [0x0x7ff7f26aeb3f+217535]
+	GetHandleVerifier [0x0x7ff7f26959b4+114740]
+	GetHandleVerifier [0x0x7ff7f2695b69+115177]
+	GetHandleVerifier [0x0x7ff7f267c368+10728]
+	BaseThreadInitThunk [0x0x7fffed5d7374+20]
+	RtlUserThreadStart [0x0x7fffed71cc91+33]
+
+2025-07-02 23:36:33,480 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-02 23:36:54,731 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-02 23:37:10,399 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-02 23:37:20,586 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-02 23:37:38,068 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-03 00:03:26,104 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-03 00:42:05,092 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-03 00:42:10,199 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-03 00:42:15,538 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-03 00:42:24,073 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-03 00:42:28,963 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-03 00:42:37,326 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-03 00:42:43,000 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-03 00:42:47,371 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-03 00:42:53,582 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-03 00:43:30,501 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-03 01:34:35,863 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-03 01:34:40,698 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-03 01:34:46,187 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-03 01:34:54,755 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-03 01:34:59,706 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-03 01:35:08,109 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-03 01:35:13,684 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-03 01:35:18,074 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-03 01:35:24,401 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-03 01:35:56,862 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-03 06:05:08,379 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-03 06:05:13,417 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-03 06:05:19,379 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-03 06:05:28,030 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-03 06:05:33,190 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-03 06:05:41,742 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-03 06:05:48,214 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-03 06:05:52,762 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-03 06:05:59,993 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-03 06:06:41,046 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-03 19:20:24,836 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-03 19:20:29,891 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-03 19:20:36,518 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-03 19:20:44,962 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-03 19:20:49,998 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-03 19:20:58,388 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-03 19:21:04,535 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-03 19:21:08,951 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-03 19:21:14,842 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-03 19:21:53,206 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-03 21:50:03,043 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-03 21:50:07,986 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-03 21:50:14,056 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-03 21:50:22,580 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-03 21:50:27,589 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-03 21:50:35,959 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-03 21:50:41,989 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-03 21:50:46,361 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-03 21:51:13,549 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-03 21:51:51,128 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-03 21:52:01,312 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-03 21:52:09,812 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-03 21:52:15,952 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-03 21:52:32,773 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-03 22:09:06,479 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-03 22:09:11,448 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-03 22:09:17,167 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-03 22:09:25,696 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-03 22:09:30,577 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-03 22:09:38,957 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-03 22:09:44,910 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-03 22:09:49,285 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-03 22:10:16,131 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-03 22:10:50,352 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-03 23:08:10,418 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-03 23:08:15,368 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-03 23:08:21,278 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-03 23:08:29,833 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-03 23:08:34,846 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-03 23:08:43,237 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-03 23:08:49,306 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-03 23:08:53,697 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-03 23:09:20,778 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-03 23:09:54,998 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-03 23:10:10,558 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-03 23:10:20,679 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-03 23:10:38,677 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-03 23:53:10,804 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-03 23:53:19,382 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-03 23:53:31,410 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-03 23:53:46,644 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-03 23:58:45,894 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-03 23:58:56,029 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-03 23:59:12,137 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-04 03:15:38,220 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-04 03:15:43,085 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-04 03:15:48,827 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-04 03:15:57,307 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-04 03:16:02,204 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-04 03:16:10,648 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-04 03:16:16,294 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-04 03:16:20,650 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-04 03:16:26,996 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-04 03:17:00,758 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-04 04:14:02,468 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-04 04:14:07,291 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-04 04:14:12,813 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-04 04:14:21,299 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-04 04:14:26,174 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-04 04:14:34,530 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-04 04:14:40,332 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-04 04:14:44,704 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-04 04:15:11,790 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-04 04:15:42,979 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-04 04:16:15,371 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-04 04:16:20,211 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-04 04:16:25,503 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-04 04:16:33,873 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-04 04:16:38,841 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-04 04:16:47,246 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-04 04:16:52,922 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-04 04:16:57,309 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-04 04:17:02,754 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-04 04:17:33,593 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-04 05:35:45,960 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-04 05:35:51,071 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-04 05:35:57,164 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-04 05:36:05,810 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-04 05:36:11,227 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-04 05:36:19,694 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-04 05:36:35,398 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75543cda5+78885]
+	GetHandleVerifier [0x0x7ff75543ce00+78976]
+	(No symbol) [0x0x7ff7551f9bca]
+	(No symbol) [0x0x7ff755250766]
+	(No symbol) [0x0x7ff755250a1c]
+	(No symbol) [0x0x7ff7552a4467]
+	(No symbol) [0x0x7ff755278bcf]
+	(No symbol) [0x0x7ff7552a122f]
+	(No symbol) [0x0x7ff755278963]
+	(No symbol) [0x0x7ff7552416b1]
+	(No symbol) [0x0x7ff755242443]
+	GetHandleVerifier [0x0x7ff755714eed+3061101]
+	GetHandleVerifier [0x0x7ff75570f33d+3037629]
+	GetHandleVerifier [0x0x7ff75572e592+3165202]
+	GetHandleVerifier [0x0x7ff75545730e+186766]
+	GetHandleVerifier [0x0x7ff75545eb3f+217535]
+	GetHandleVerifier [0x0x7ff7554459b4+114740]
+	GetHandleVerifier [0x0x7ff755445b69+115177]
+	GetHandleVerifier [0x0x7ff75542c368+10728]
+	BaseThreadInitThunk [0x0x7fffed5d7374+20]
+	RtlUserThreadStart [0x0x7fffed71cc91+33]
+
+2025-07-04 05:36:35,523 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-04 05:36:40,029 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-04 05:36:47,145 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-04 05:47:50,647 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-04 05:47:55,938 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-04 05:48:01,934 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-04 05:48:10,670 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-04 05:48:15,907 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-04 05:48:24,386 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-04 05:48:30,471 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-04 05:48:35,053 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-04 05:48:41,574 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-04 05:49:17,470 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-04 06:10:01,222 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-04 06:10:06,289 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-04 06:10:12,058 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-04 06:10:20,689 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-04 06:10:25,897 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-04 06:10:34,383 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-04 06:10:40,588 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-04 06:10:45,120 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-04 06:11:12,471 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-04 06:11:51,532 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-07 19:08:54,163 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-07 19:08:59,300 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-07 19:09:04,823 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-07 19:10:18,036 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-07 19:10:22,850 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-07 19:10:28,082 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-07 19:10:36,580 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-07 19:10:41,425 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-07 19:10:49,910 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-07 19:10:55,562 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-07 19:10:59,988 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-07 19:11:05,498 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-07 19:11:42,808 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-07 20:23:32,330 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-07 20:23:37,265 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-07 20:23:42,629 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-07 20:23:51,144 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-07 20:23:56,177 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-07 20:24:04,617 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-07 20:24:10,289 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-07 20:24:14,665 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-07 20:24:41,729 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-07 20:25:14,321 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-07 20:25:29,923 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-07 20:25:40,033 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-07 20:25:56,711 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-07 20:26:12,345 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-07 20:26:22,492 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-07 20:26:38,543 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-07 21:27:12,700 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-07 21:27:17,713 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-07 21:27:23,083 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-07 21:27:31,670 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-07 21:27:36,537 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-07 21:27:44,938 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-07 21:27:50,493 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-07 21:27:54,847 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-07 21:28:21,962 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-07 21:28:52,134 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-07 21:29:02,324 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-07 21:29:10,853 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-07 21:29:16,519 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-07 21:29:32,759 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-07 23:14:35,553 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-07 23:14:40,681 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-07 23:14:46,510 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-07 23:14:55,248 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-07 23:15:00,429 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-07 23:15:08,889 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-07 23:15:14,832 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-07 23:15:19,309 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-07 23:15:25,765 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-07 23:16:01,700 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-07 23:16:17,437 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-07 23:16:27,618 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-07 23:16:47,083 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-07 23:40:54,032 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-07 23:41:02,669 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-07 23:41:18,389 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d0a16f95+76917]
+	GetHandleVerifier [0x0x7ff6d0a16ff0+77008]
+	(No symbol) [0x0x7ff6d07c9dea]
+	(No symbol) [0x0x7ff6d0820256]
+	(No symbol) [0x0x7ff6d082050c]
+	(No symbol) [0x0x7ff6d0873887]
+	(No symbol) [0x0x7ff6d08484af]
+	(No symbol) [0x0x7ff6d087065c]
+	(No symbol) [0x0x7ff6d0848243]
+	(No symbol) [0x0x7ff6d0811431]
+	(No symbol) [0x0x7ff6d08121c3]
+	GetHandleVerifier [0x0x7ff6d0ced2cd+3051437]
+	GetHandleVerifier [0x0x7ff6d0ce7923+3028483]
+	GetHandleVerifier [0x0x7ff6d0d058bd+3151261]
+	GetHandleVerifier [0x0x7ff6d0a3185e+185662]
+	GetHandleVerifier [0x0x7ff6d0a3971f+218111]
+	GetHandleVerifier [0x0x7ff6d0a1fb14+112628]
+	GetHandleVerifier [0x0x7ff6d0a1fcc9+113065]
+	GetHandleVerifier [0x0x7ff6d0a06c98+10616]
+	BaseThreadInitThunk [0x0x7fffed5d7374+20]
+	RtlUserThreadStart [0x0x7fffed71cc91+33]
+
+2025-07-07 23:41:18,523 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-07 23:41:38,250 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-07 23:57:22,780 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-07 23:57:32,996 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-07 23:57:51,563 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-08 00:04:14,254 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-08 00:04:19,402 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-08 00:04:24,924 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-08 00:04:33,547 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-08 00:04:38,696 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-08 00:04:47,265 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-08 00:04:53,505 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-08 00:04:58,061 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-08 00:05:25,450 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-08 00:06:05,200 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-08 04:14:48,263 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-08 04:14:53,417 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-08 04:14:59,073 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-08 04:15:07,583 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-08 04:15:12,969 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-08 04:15:21,441 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-08 04:15:27,480 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-08 04:15:32,045 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-08 04:15:59,303 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-08 04:16:37,395 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-08 05:22:41,764 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-08 05:22:46,600 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-08 05:22:51,966 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-08 05:23:00,528 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-08 05:23:05,439 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-08 05:23:13,958 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-08 05:23:19,603 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-08 05:23:23,985 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-08 05:23:30,087 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-08 05:24:03,157 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-08 06:03:51,662 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-08 06:03:56,727 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-08 06:04:02,480 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-08 06:04:11,260 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-08 06:04:16,379 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-08 06:04:24,833 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-08 06:04:30,866 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-08 06:04:35,388 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-08 06:04:41,054 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-08 06:05:18,373 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-08 19:33:38,579 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-08 19:33:43,409 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-08 19:33:48,922 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-08 19:33:57,300 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-08 19:34:02,164 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-08 19:34:10,606 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-08 19:34:16,260 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-08 19:34:20,643 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-08 19:34:47,102 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-08 19:35:23,727 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-08 20:00:53,788 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-08 20:01:03,918 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-08 20:01:20,149 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-08 20:01:35,718 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-08 20:01:45,870 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-08 20:02:02,241 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-08 21:02:20,014 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-08 21:02:24,876 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-08 21:02:30,327 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-08 21:02:39,309 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-08 21:02:44,226 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-08 21:02:52,630 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-08 21:02:58,286 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-08 21:03:02,654 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-08 21:03:29,789 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-08 21:04:05,357 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-08 21:04:15,529 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-08 21:04:24,040 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-08 21:04:29,812 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-08 21:04:47,213 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-08 22:41:27,834 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-08 22:41:32,705 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-08 22:41:38,096 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-08 22:41:46,951 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-08 22:41:51,948 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-08 22:42:00,362 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-08 22:42:06,000 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-08 22:42:10,407 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-08 22:42:16,764 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-08 22:42:53,866 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-08 23:24:53,819 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-08 23:24:58,973 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-08 23:25:04,726 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-08 23:25:13,371 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-08 23:25:18,500 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-08 23:25:26,931 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-08 23:25:32,817 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-08 23:25:37,367 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-08 23:26:04,621 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-08 23:26:40,901 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-08 23:26:56,697 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-08 23:27:06,870 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-08 23:27:28,089 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-08 23:35:33,617 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-08 23:35:42,267 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-08 23:35:48,614 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-08 23:36:07,482 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-08 23:56:25,676 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-08 23:56:35,877 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-08 23:56:53,224 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-09 00:27:08,756 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-09 00:27:13,857 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-09 00:27:19,636 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-09 00:27:28,208 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-09 00:27:33,357 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-09 00:27:41,842 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-09 00:27:47,760 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-09 00:27:52,262 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-09 00:28:19,512 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-09 00:28:54,911 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-09 06:40:23,420 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-09 06:40:28,306 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-09 06:40:33,780 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-09 06:40:42,301 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-09 06:40:47,248 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-09 06:40:55,620 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-09 06:41:01,275 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-09 06:41:05,668 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-09 06:41:11,140 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-09 06:41:44,934 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-12 19:35:52,780 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-12 19:35:57,614 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-12 19:36:02,963 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-12 19:36:11,512 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-12 19:36:16,505 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-12 19:36:24,931 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-12 19:36:30,560 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-12 19:36:34,972 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-12 19:36:40,527 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-12 19:37:18,294 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-12 20:07:34,139 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-12 20:07:39,045 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-12 20:07:44,433 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-12 20:07:53,106 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-12 20:07:58,008 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-12 20:08:06,376 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-12 20:08:12,040 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-12 20:08:16,387 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-12 20:08:43,398 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-12 20:09:16,610 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-12 20:09:32,150 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-12 20:09:42,250 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-12 20:10:00,100 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-12 20:10:15,797 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-12 20:10:25,933 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-12 20:10:41,878 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-12 21:13:10,875 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-12 21:13:15,682 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-12 21:13:21,114 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-12 21:13:29,645 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-12 21:13:34,500 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-12 21:13:42,885 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-12 21:13:48,549 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-12 21:13:52,894 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-12 21:14:19,971 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-12 21:14:52,439 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-12 21:15:02,591 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-12 21:15:11,206 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-12 21:15:16,980 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-12 21:15:33,585 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-12 22:09:23,526 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-12 22:09:28,352 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-12 22:09:33,729 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-12 22:09:42,255 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-12 22:09:47,169 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-12 22:09:55,596 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-12 22:10:01,198 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-12 22:10:05,560 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-12 22:10:11,886 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-12 22:10:47,422 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-12 23:42:24,488 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-12 23:42:29,386 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-12 23:42:34,863 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-12 23:42:43,441 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-12 23:42:48,325 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-12 23:42:56,732 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-12 23:43:02,299 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-12 23:43:06,641 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-12 23:43:13,075 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-12 23:43:47,904 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-12 23:43:58,031 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-12 23:44:06,394 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-12 23:44:21,518 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7902d6f75+76917]
+	GetHandleVerifier [0x0x7ff7902d6fd0+77008]
+	(No symbol) [0x0x7ff790089dea]
+	(No symbol) [0x0x7ff7900e0256]
+	(No symbol) [0x0x7ff7900e050c]
+	(No symbol) [0x0x7ff790133887]
+	(No symbol) [0x0x7ff7901084af]
+	(No symbol) [0x0x7ff79013065c]
+	(No symbol) [0x0x7ff790108243]
+	(No symbol) [0x0x7ff7900d1431]
+	(No symbol) [0x0x7ff7900d21c3]
+	GetHandleVerifier [0x0x7ff7905ad2ad+3051437]
+	GetHandleVerifier [0x0x7ff7905a7903+3028483]
+	GetHandleVerifier [0x0x7ff7905c589d+3151261]
+	GetHandleVerifier [0x0x7ff7902f183e+185662]
+	GetHandleVerifier [0x0x7ff7902f96ff+218111]
+	GetHandleVerifier [0x0x7ff7902dfaf4+112628]
+	GetHandleVerifier [0x0x7ff7902dfca9+113065]
+	GetHandleVerifier [0x0x7ff7902c6c78+10616]
+	BaseThreadInitThunk [0x0x7fff9aaf7374+20]
+	RtlUserThreadStart [0x0x7fff9c37cc91+33]
+
+2025-07-12 23:44:21,609 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-12 23:44:38,256 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-12 23:44:53,718 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-12 23:45:03,826 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-12 23:45:19,702 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-13 00:08:14,679 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-13 00:08:24,896 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-13 00:08:42,517 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-13 00:10:44,525 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-13 00:10:49,419 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-13 00:10:54,797 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-13 00:11:03,245 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-13 00:11:08,363 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-13 00:11:16,904 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-13 00:11:22,771 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-13 00:11:27,232 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-13 00:11:54,251 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-13 00:12:36,795 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-13 20:02:21,762 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-13 20:02:26,624 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-13 20:02:32,315 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-13 20:02:40,864 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-13 20:02:45,791 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-13 20:02:54,162 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-13 20:02:59,904 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-13 20:03:04,323 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-13 20:03:31,477 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-13 20:04:03,698 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-13 20:04:19,470 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-13 20:04:29,584 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-13 20:04:46,426 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-13 20:05:02,056 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-13 20:05:12,207 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-13 20:05:28,087 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-13 21:08:32,909 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-13 21:08:38,061 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-13 21:08:43,833 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-13 21:08:52,445 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-13 21:08:57,638 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-13 21:09:06,165 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-13 21:09:12,159 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-13 21:09:16,715 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-13 21:09:23,364 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-13 21:10:05,414 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-13 21:10:15,961 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-13 21:10:24,624 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-13 21:10:30,727 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-13 21:10:47,826 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-13 21:11:02,598 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-13 21:11:07,624 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-13 21:11:13,059 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-13 21:11:21,700 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-13 21:11:26,882 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-13 21:11:35,364 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-13 21:11:41,327 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-13 21:11:45,862 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-13 21:11:51,842 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-13 21:12:30,487 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-13 22:02:32,267 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-13 22:02:37,359 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-13 22:02:42,915 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-13 22:02:51,566 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-13 22:02:56,722 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-13 22:03:05,222 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-13 22:03:11,150 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-13 22:03:15,660 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-13 22:03:22,132 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-13 22:03:58,775 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-13 23:04:21,559 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-13 23:04:26,614 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-13 23:04:32,213 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-13 23:04:40,919 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-13 23:04:46,010 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-13 23:04:54,620 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-13 23:05:00,436 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-13 23:05:04,904 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-13 23:05:11,224 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-13 23:05:51,384 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-13 23:06:07,185 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-13 23:06:17,372 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-13 23:06:38,029 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-13 23:32:04,717 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-13 23:32:13,382 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-13 23:32:26,420 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-13 23:32:46,194 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-13 23:57:28,685 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-13 23:57:38,962 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-13 23:57:56,634 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-14 00:20:22,232 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-14 00:20:27,356 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-14 00:20:33,060 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-14 00:20:41,733 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-14 00:20:46,903 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-14 00:20:55,387 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-14 00:21:01,388 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-14 00:21:05,932 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-14 00:21:12,675 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-14 00:21:51,509 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-14 00:22:10,829 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-14 00:22:15,829 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-14 00:22:21,349 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-14 00:22:29,837 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-14 00:22:34,916 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-14 00:22:43,384 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-14 00:22:49,277 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-14 00:22:53,805 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-14 00:22:59,350 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-14 00:23:41,574 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-14 01:05:46,597 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-14 01:05:51,447 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-14 01:05:56,751 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-14 01:06:05,242 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-14 01:06:10,160 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-14 01:06:18,556 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-14 01:06:24,122 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-14 01:06:28,468 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-14 01:06:34,594 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-14 01:07:07,460 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-14 06:03:24,966 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-14 06:03:30,082 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-14 06:03:36,648 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-14 06:03:45,222 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-14 06:03:50,346 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-14 06:03:58,847 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-14 06:04:05,041 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-14 06:04:09,597 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-14 06:04:36,889 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-14 06:05:19,175 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-16 19:27:16,188 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-16 19:27:21,295 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-16 19:27:27,143 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-16 19:27:35,679 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-16 19:27:40,984 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-16 19:27:49,482 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-16 19:27:55,221 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-16 19:27:59,750 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-16 19:28:05,481 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-16 19:28:41,166 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-16 19:28:56,975 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-16 19:29:07,142 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-16 19:29:26,533 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-16 19:29:42,912 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-16 19:29:53,113 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-16 19:30:10,409 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-16 20:32:40,731 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-16 20:32:45,796 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-16 20:32:51,850 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-16 20:33:00,533 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-16 20:33:05,739 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-16 20:33:14,234 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-16 20:33:20,310 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-16 20:33:24,827 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-16 20:33:31,281 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-16 20:34:08,115 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-16 20:34:23,910 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-16 20:34:34,129 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-16 20:34:54,066 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-16 20:35:09,787 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-16 20:35:20,025 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-16 20:35:38,410 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-16 21:06:21,052 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-16 21:06:26,095 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-16 21:06:31,776 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-16 21:06:40,392 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-16 21:06:45,399 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-16 21:06:53,800 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-16 21:06:59,740 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-16 21:07:04,331 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-16 21:07:31,700 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-16 21:08:19,774 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-16 21:08:30,220 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-16 21:08:38,804 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-16 21:08:44,825 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-16 21:09:05,845 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-16 22:30:57,268 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-16 22:31:02,122 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-16 22:31:07,529 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-16 22:31:16,178 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-16 22:31:21,048 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-16 22:31:29,415 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-16 22:31:35,049 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-16 22:31:39,402 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-16 22:32:06,430 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-16 22:32:41,219 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-16 23:02:01,249 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-16 23:02:06,100 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-16 23:02:11,575 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-16 23:02:20,132 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-16 23:02:25,124 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-16 23:02:33,497 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-16 23:02:39,167 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-16 23:02:43,544 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-16 23:03:10,573 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-16 23:03:44,774 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-16 23:04:23,580 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-16 23:04:33,698 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-16 23:04:49,978 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-16 23:53:41,921 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-16 23:53:50,552 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-16 23:53:56,588 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-16 23:54:11,795 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-17 00:01:25,373 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-17 00:01:35,512 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-17 00:01:51,510 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-17 03:10:42,573 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-17 03:10:47,457 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-17 03:10:52,851 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-17 03:11:01,338 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-17 03:11:06,291 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-17 03:11:14,644 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-17 03:11:20,358 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-17 03:11:24,721 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-17 03:11:31,172 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-17 03:12:01,926 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-17 04:26:09,100 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-17 04:26:13,947 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-17 04:26:19,298 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-17 04:26:27,922 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-17 04:26:32,834 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-17 04:26:41,231 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-17 04:26:46,792 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-17 04:26:51,139 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-17 04:27:18,584 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-17 04:27:49,783 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-17 05:16:59,490 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-17 05:17:04,655 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-17 05:17:10,276 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-17 05:17:18,894 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-17 05:17:24,119 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-17 05:17:32,614 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-17 05:17:38,618 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-17 05:17:43,152 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-17 05:18:10,437 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-17 05:18:48,731 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-17 19:20:07,055 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-17 19:20:12,047 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-17 19:20:18,011 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-17 19:20:26,393 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-17 19:20:31,574 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-17 19:20:40,032 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-17 19:20:46,020 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-17 19:20:50,400 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-17 19:20:56,063 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-17 19:21:37,262 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-17 21:05:46,258 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-17 21:05:54,952 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-17 21:06:01,542 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-17 21:06:18,734 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-17 22:02:35,388 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-17 22:02:40,493 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-17 22:02:46,313 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-17 22:02:55,070 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-17 22:03:00,319 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-17 22:03:08,795 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-17 22:03:14,669 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-17 22:03:19,176 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-17 22:03:25,577 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-17 22:04:11,301 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-17 23:02:06,781 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-17 23:02:11,667 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-17 23:02:17,082 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-17 23:02:25,590 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-17 23:02:30,525 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-17 23:02:38,988 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-17 23:02:44,563 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-17 23:02:50,950 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-17 23:03:17,969 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-17 23:03:50,634 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-17 23:04:06,223 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-17 23:04:16,338 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-17 23:04:33,037 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-17 23:32:40,944 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-17 23:32:49,490 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-17 23:32:56,416 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-17 23:33:11,736 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-17 23:57:57,008 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-17 23:58:07,221 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-17 23:58:25,329 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-18 00:13:59,080 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-18 00:14:04,297 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-18 00:14:09,838 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-18 00:14:18,621 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-18 00:14:23,945 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-18 00:14:32,459 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-18 00:14:38,440 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-18 00:14:42,963 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-18 00:15:10,275 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-18 00:15:55,994 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-18 01:00:39,783 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-18 01:00:44,829 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-18 01:00:50,291 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-18 01:00:58,912 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-18 01:01:03,980 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-18 01:01:12,404 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-18 01:01:18,239 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-18 01:01:22,618 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-18 01:01:49,965 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-18 01:02:42,672 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 06:01:00,871 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-19 06:01:05,782 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-19 06:01:11,282 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-19 06:01:19,824 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-19 06:01:24,787 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-19 06:01:33,190 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-19 06:01:39,193 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 06:01:43,610 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-19 06:01:49,259 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-19 06:02:32,941 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 07:07:29,342 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-19 07:07:34,146 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-19 07:07:39,591 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-19 07:07:48,665 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-19 07:07:53,667 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-19 07:08:02,078 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-19 07:08:07,710 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 07:08:12,083 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-19 07:08:18,381 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-19 07:08:55,560 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 07:58:15,875 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-19 07:58:20,677 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-19 07:58:25,966 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-19 07:58:34,526 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-19 07:58:39,424 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-19 07:58:47,868 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-19 07:58:53,607 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 07:58:57,961 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-19 07:59:24,819 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-19 07:59:57,302 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 09:00:18,360 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-19 09:00:23,199 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-19 09:00:28,652 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-19 09:00:37,185 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-19 09:00:42,153 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-19 09:00:50,530 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-19 09:00:56,120 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 09:01:00,535 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-19 09:01:06,611 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-19 09:01:43,403 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 09:02:45,937 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-19 09:02:54,373 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-19 09:03:00,181 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 09:03:16,930 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-19 10:00:43,756 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-19 10:00:48,734 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-19 10:00:54,077 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-19 10:01:02,614 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-19 10:01:07,515 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-19 10:01:16,066 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-19 10:01:21,622 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 10:01:25,981 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-19 10:01:32,106 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-19 10:02:06,924 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 11:01:09,218 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-19 11:01:14,011 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-19 11:01:19,352 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-19 11:01:27,945 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-19 11:01:32,899 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-19 11:01:41,462 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-19 11:01:47,072 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 11:01:51,529 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-19 11:01:57,836 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-19 11:02:33,010 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 11:02:48,889 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-19 11:02:59,013 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-19 11:03:20,922 - WARNING - #COMPARATIVO - Mensagem e imagem enviadas no Teams!
+2025-07-19 12:00:55,225 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-19 12:01:00,082 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-19 12:01:05,460 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-19 12:01:13,970 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-19 12:01:18,842 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-19 12:01:27,244 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-19 12:01:32,951 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 12:01:37,319 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-19 12:02:04,312 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-19 12:02:37,308 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 12:02:47,547 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-19 12:02:56,085 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-19 12:03:01,781 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 12:03:19,205 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-19 12:03:34,839 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-19 12:03:44,974 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-19 12:04:01,441 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-19 14:21:04,691 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-19 14:21:09,559 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-19 14:21:15,053 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-19 14:21:23,570 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-19 14:21:28,525 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-19 14:21:36,951 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-19 14:21:42,549 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 14:21:46,922 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-19 14:21:53,193 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-19 14:22:30,425 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 14:23:24,963 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cecommerce.png
+2025-07-19 14:23:35,094 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/cfisico.png
+2025-07-19 15:24:29,327 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-19 15:24:34,456 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-19 15:24:40,412 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-19 15:24:49,145 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-19 15:24:54,409 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-19 15:25:02,930 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-19 15:25:08,976 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 15:25:13,525 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-19 15:25:41,586 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-19 15:26:29,341 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 15:26:40,165 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-19 15:26:49,073 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-19 15:26:55,096 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 15:27:14,975 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-19 15:27:30,802 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-19 15:27:41,019 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-19 15:27:59,452 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-19 17:00:22,041 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-19 17:00:27,019 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-19 17:00:32,785 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-19 17:00:41,521 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-19 17:00:46,829 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-19 17:00:55,352 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-19 17:01:01,495 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-19 17:01:06,025 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-19 17:01:33,245 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-19 17:02:14,910 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-19 17:02:30,823 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/wtnet.png
+2025-07-19 17:02:41,043 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/snifferprd.png
+2025-07-19 17:03:00,432 - WARNING - #ADIQ+ - Mensagem e imagem enviadas no Teams!
+2025-07-21 19:05:18,087 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-21 19:05:22,999 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-21 19:05:28,436 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-21 19:05:36,812 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-21 19:05:41,819 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-21 19:05:50,240 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-21 19:05:56,038 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-21 19:06:00,415 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-21 19:06:05,696 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-21 19:06:41,553 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-21 20:30:58,733 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-21 20:31:03,645 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-21 20:31:09,288 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-21 20:31:17,904 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-21 20:31:23,021 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-21 20:31:31,399 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-21 20:31:37,075 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-21 20:31:41,480 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-21 20:31:47,708 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-21 20:32:26,542 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-21 21:01:27,897 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-21 21:01:32,731 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-21 21:01:38,134 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-21 21:01:46,755 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-21 21:01:51,715 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-21 21:02:00,079 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-21 21:02:05,693 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-21 21:02:10,054 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-21 21:02:16,216 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-21 21:02:48,938 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-21 21:02:59,189 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-21 21:03:07,621 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-21 21:03:13,286 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-21 21:03:29,294 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-21 22:09:30,576 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-21 22:09:35,412 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-21 22:09:40,775 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-21 22:09:49,295 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-21 22:09:54,237 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-21 22:10:02,634 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-21 22:10:08,260 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-21 22:10:12,625 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-21 22:10:39,904 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-21 22:11:13,557 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-21 23:20:18,507 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-21 23:20:23,464 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-21 23:20:28,798 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-21 23:20:37,400 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-21 23:20:42,315 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-21 23:20:50,722 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-21 23:20:56,312 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-21 23:21:00,633 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-21 23:21:27,503 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-21 23:22:06,717 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-21 23:41:19,661 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-21 23:41:28,202 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-21 23:41:34,114 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-21 23:41:51,040 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-22 00:13:13,396 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-22 00:13:18,214 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-22 00:13:23,535 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-22 00:13:32,087 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-22 00:13:36,993 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-22 00:13:45,354 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-22 00:14:00,461 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601cbe925+77845]
+	GetHandleVerifier [0x0x7ff601cbe980+77936]
+	(No symbol) [0x0x7ff601a79cda]
+	(No symbol) [0x0x7ff601ad06aa]
+	(No symbol) [0x0x7ff601ad095c]
+	(No symbol) [0x0x7ff601b23d07]
+	(No symbol) [0x0x7ff601af890f]
+	(No symbol) [0x0x7ff601b20b07]
+	(No symbol) [0x0x7ff601af86a3]
+	(No symbol) [0x0x7ff601ac1791]
+	(No symbol) [0x0x7ff601ac2523]
+	GetHandleVerifier [0x0x7ff601f9683d+3059501]
+	GetHandleVerifier [0x0x7ff601f90bfd+3035885]
+	GetHandleVerifier [0x0x7ff601fb03f0+3164896]
+	GetHandleVerifier [0x0x7ff601cd8c2e+185118]
+	GetHandleVerifier [0x0x7ff601ce053f+216111]
+	GetHandleVerifier [0x0x7ff601cc72d4+113092]
+	GetHandleVerifier [0x0x7ff601cc7489+113529]
+	GetHandleVerifier [0x0x7ff601cae288+10616]
+	BaseThreadInitThunk [0x0x7ffb45b27374+20]
+	RtlUserThreadStart [0x0x7ffb45c7cc91+33]
+
+2025-07-22 00:14:00,546 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 00:14:04,882 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-22 00:14:11,086 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-22 00:14:48,294 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-22 01:08:15,036 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-22 01:08:20,142 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-22 01:08:25,809 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-22 01:08:34,442 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-22 01:08:39,666 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-22 01:08:48,158 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-22 01:08:54,734 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 01:08:59,261 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-22 01:09:05,808 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-22 01:09:45,348 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-22 02:03:01,336 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-22 02:03:06,618 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-22 02:03:12,283 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-22 02:03:21,282 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-22 02:03:27,316 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-22 02:03:35,835 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-22 02:03:42,402 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 02:03:46,972 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-22 02:03:53,706 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-22 02:04:32,197 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-22 05:05:18,634 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-22 05:05:23,440 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-22 05:05:28,765 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-22 05:05:37,273 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-22 05:05:42,201 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-22 05:05:50,550 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-22 05:05:56,134 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 05:06:00,505 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-22 05:06:06,917 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-22 05:06:42,536 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-22 19:02:15,445 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-22 19:02:20,360 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-22 19:02:25,912 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-22 19:02:34,463 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-22 19:02:39,527 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-22 19:02:47,905 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-22 19:02:53,526 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 19:02:57,921 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-22 19:03:03,496 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-22 19:03:35,334 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-22 20:00:15,882 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-22 20:00:20,735 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-22 20:00:26,372 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-22 20:00:34,900 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-22 20:00:39,870 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-22 20:00:48,265 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-22 20:00:53,902 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 20:00:58,260 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-22 20:01:04,624 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-22 20:01:40,283 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-22 21:07:00,982 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-22 21:07:06,465 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-22 21:07:11,955 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-22 21:07:20,544 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-22 21:07:25,477 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-22 21:07:33,870 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-22 21:07:39,442 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 21:07:43,817 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-22 21:07:50,202 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-22 21:08:25,553 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-22 21:08:35,791 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-22 21:08:44,203 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-22 21:08:49,843 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 21:09:05,646 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-22 22:04:07,284 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-22 22:04:12,160 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-22 22:04:17,816 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-22 22:04:26,327 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-22 22:04:31,301 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-22 22:04:39,727 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-22 22:04:45,305 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 22:04:49,694 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-22 22:05:16,816 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-22 22:05:51,615 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-22 23:02:40,244 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-22 23:02:45,094 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-22 23:02:50,466 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-22 23:02:58,987 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-22 23:03:03,998 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-22 23:03:12,406 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-22 23:03:18,057 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 23:03:22,406 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-22 23:03:49,401 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-22 23:04:24,220 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-22 23:43:28,419 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-22 23:43:36,945 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-22 23:43:42,882 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-22 23:43:58,297 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-23 00:30:27,009 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-23 00:30:32,204 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-23 00:30:38,056 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-23 00:30:46,797 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-23 00:30:52,202 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-23 00:31:00,716 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-23 00:31:06,849 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-23 00:31:11,361 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-23 00:31:38,981 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-23 00:32:19,566 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-23 05:08:57,415 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-23 05:09:02,264 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-23 05:09:08,116 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-23 05:09:16,708 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-23 05:09:21,693 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-23 05:09:30,092 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-23 05:09:36,111 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-23 05:09:40,496 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-23 05:09:46,893 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-23 05:10:27,690 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-23 06:16:47,540 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-23 06:16:52,797 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-23 06:16:58,656 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-23 06:17:07,248 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-23 06:17:12,517 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-23 06:17:21,109 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-23 06:17:27,509 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-23 06:17:31,969 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-23 06:17:38,769 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-23 06:18:41,454 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-23 06:19:13,679 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-23 06:19:18,645 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-23 06:19:23,964 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-23 06:19:32,530 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-23 06:19:37,691 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-23 06:19:46,328 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-23 06:19:52,252 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-23 06:19:56,720 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-23 06:20:02,733 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-23 06:20:57,318 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-25 20:12:07,618 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-25 20:12:16,068 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-25 20:12:23,127 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-25 20:12:43,417 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-25 20:12:58,023 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-25 20:13:02,693 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-25 20:13:08,761 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-25 20:13:17,498 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-25 20:13:22,780 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-25 20:13:31,288 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-25 20:13:37,886 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-25 20:13:42,486 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-25 20:14:09,947 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-25 20:14:48,961 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-25 20:15:36,928 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-25 20:15:42,305 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-25 20:15:48,173 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-25 20:15:56,793 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-25 20:16:02,669 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-25 20:16:11,185 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-25 20:16:17,734 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-25 20:16:22,269 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-25 20:16:48,933 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-25 20:17:26,960 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-25 21:21:00,764 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-25 21:21:05,853 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-25 21:21:11,967 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-25 21:21:20,620 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-25 21:21:26,255 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-25 21:21:34,715 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-25 21:21:41,081 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-25 21:21:45,560 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-25 21:22:12,870 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-25 21:22:53,954 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-25 21:29:45,666 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-25 21:29:54,332 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-25 21:30:00,917 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-25 21:30:20,122 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-25 22:18:04,278 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-25 22:18:09,114 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-25 22:18:14,892 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-25 22:18:23,458 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-25 22:18:28,635 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-25 22:18:37,019 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-25 22:18:43,007 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-25 22:18:47,374 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-25 22:19:14,321 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-25 22:19:52,868 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-25 23:35:07,387 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-25 23:35:12,284 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-25 23:35:18,114 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-25 23:35:26,848 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-25 23:35:32,197 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-25 23:35:40,557 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-25 23:35:46,545 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-25 23:35:50,927 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-25 23:36:17,954 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-25 23:36:55,161 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-25 23:37:05,960 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-25 23:37:14,361 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-25 23:37:20,335 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-25 23:37:36,603 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-26 00:02:52,184 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-26 00:02:57,119 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-26 00:03:02,818 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-26 00:03:11,392 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-26 00:03:16,710 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-26 00:03:25,141 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-26 00:03:31,084 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-26 00:03:35,450 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-26 00:04:02,408 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-26 00:04:46,051 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-26 05:06:04,953 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-26 05:06:09,809 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-26 05:06:15,646 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-26 05:06:24,187 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-26 05:06:30,519 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-26 05:06:38,949 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-26 05:06:45,519 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-26 05:06:49,895 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-26 05:07:17,056 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-26 05:08:17,014 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-26 06:31:09,444 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-26 06:31:14,322 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-26 06:31:20,064 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-26 06:31:28,606 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-26 06:31:33,886 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-26 06:31:42,376 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-26 06:31:48,278 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-26 06:31:52,694 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-26 06:31:59,260 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-26 06:32:37,906 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-26 19:27:35,331 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-26 19:27:43,761 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-26 19:27:50,017 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-26 19:28:08,692 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-26 20:35:03,736 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-26 20:35:12,321 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-26 20:35:18,847 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-26 20:35:36,412 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-26 20:35:51,152 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-26 20:35:55,996 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-26 20:36:01,493 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-26 20:36:09,878 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-26 20:36:15,186 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-26 20:36:23,619 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-26 20:36:29,863 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-26 20:36:34,273 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-26 20:36:40,427 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-26 20:37:20,043 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-26 21:47:11,312 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-26 21:47:16,182 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-26 21:47:22,090 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-26 21:47:31,092 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-26 21:47:36,948 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-26 21:47:45,533 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-26 21:47:52,049 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-26 21:47:56,596 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-26 21:48:03,244 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-26 21:48:44,476 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-26 21:57:57,582 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-26 21:58:06,198 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-26 21:58:12,628 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-26 21:58:29,370 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-26 22:25:40,776 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-26 22:25:45,864 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-26 22:25:52,054 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-26 22:26:00,592 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-26 22:26:06,357 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-26 22:26:14,859 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-26 22:26:21,268 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-26 22:26:25,791 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-26 22:26:32,170 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-26 22:27:16,632 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-26 23:28:33,363 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-26 23:28:38,205 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-26 23:28:43,936 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-26 23:28:52,460 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-26 23:28:57,734 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-26 23:29:06,085 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-26 23:29:11,980 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-26 23:29:16,327 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-26 23:29:43,790 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-26 23:30:24,933 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-27 00:09:59,598 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 00:10:04,619 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 00:10:10,450 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 00:10:18,992 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 00:10:24,185 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 00:10:32,641 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 00:10:48,051 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff631e7e935+77845]
+	GetHandleVerifier [0x0x7ff631e7e990+77936]
+	(No symbol) [0x0x7ff631c39cda]
+	(No symbol) [0x0x7ff631c906aa]
+	(No symbol) [0x0x7ff631c9095c]
+	(No symbol) [0x0x7ff631ce3d07]
+	(No symbol) [0x0x7ff631cb890f]
+	(No symbol) [0x0x7ff631ce0b07]
+	(No symbol) [0x0x7ff631cb86a3]
+	(No symbol) [0x0x7ff631c81791]
+	(No symbol) [0x0x7ff631c82523]
+	GetHandleVerifier [0x0x7ff63215684d+3059501]
+	GetHandleVerifier [0x0x7ff632150c0d+3035885]
+	GetHandleVerifier [0x0x7ff632170400+3164896]
+	GetHandleVerifier [0x0x7ff631e98c3e+185118]
+	GetHandleVerifier [0x0x7ff631ea054f+216111]
+	GetHandleVerifier [0x0x7ff631e872e4+113092]
+	GetHandleVerifier [0x0x7ff631e87499+113529]
+	GetHandleVerifier [0x0x7ff631e6e298+10616]
+	BaseThreadInitThunk [0x0x7ff926a27374+20]
+	RtlUserThreadStart [0x0x7ff927b9cc91+33]
+
+2025-07-27 00:10:48,191 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 00:10:52,604 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 00:11:19,793 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 00:11:34,685 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 00:11:39,589 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 00:11:45,100 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 00:11:53,498 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 00:11:58,873 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 00:12:07,313 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 00:12:22,883 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff631e7e935+77845]
+	GetHandleVerifier [0x0x7ff631e7e990+77936]
+	(No symbol) [0x0x7ff631c39cda]
+	(No symbol) [0x0x7ff631c906aa]
+	(No symbol) [0x0x7ff631c9095c]
+	(No symbol) [0x0x7ff631ce3d07]
+	(No symbol) [0x0x7ff631cb890f]
+	(No symbol) [0x0x7ff631ce0b07]
+	(No symbol) [0x0x7ff631cb86a3]
+	(No symbol) [0x0x7ff631c81791]
+	(No symbol) [0x0x7ff631c82523]
+	GetHandleVerifier [0x0x7ff63215684d+3059501]
+	GetHandleVerifier [0x0x7ff632150c0d+3035885]
+	GetHandleVerifier [0x0x7ff632170400+3164896]
+	GetHandleVerifier [0x0x7ff631e98c3e+185118]
+	GetHandleVerifier [0x0x7ff631ea054f+216111]
+	GetHandleVerifier [0x0x7ff631e872e4+113092]
+	GetHandleVerifier [0x0x7ff631e87499+113529]
+	GetHandleVerifier [0x0x7ff631e6e298+10616]
+	BaseThreadInitThunk [0x0x7ff926a27374+20]
+	RtlUserThreadStart [0x0x7ff927b9cc91+33]
+
+2025-07-27 00:12:23,049 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 00:12:27,448 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 00:12:33,232 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 05:22:15,202 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 05:22:20,203 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 05:22:26,388 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 05:22:35,010 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 05:22:40,788 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 05:22:49,302 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 05:22:55,689 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 05:23:00,241 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 05:23:06,798 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 05:23:44,721 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-27 06:18:57,299 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 06:19:02,368 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 06:19:08,794 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 06:19:17,374 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 06:19:23,432 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 06:19:31,917 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 06:19:38,401 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 06:19:42,892 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 06:20:10,216 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 06:20:44,424 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-27 18:49:49,149 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 18:49:54,097 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 18:49:59,824 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 18:50:08,343 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 18:50:13,658 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 18:50:22,055 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 18:50:37,459 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff631e7e935+77845]
+	GetHandleVerifier [0x0x7ff631e7e990+77936]
+	(No symbol) [0x0x7ff631c39cda]
+	(No symbol) [0x0x7ff631c906aa]
+	(No symbol) [0x0x7ff631c9095c]
+	(No symbol) [0x0x7ff631ce3d07]
+	(No symbol) [0x0x7ff631cb890f]
+	(No symbol) [0x0x7ff631ce0b07]
+	(No symbol) [0x0x7ff631cb86a3]
+	(No symbol) [0x0x7ff631c81791]
+	(No symbol) [0x0x7ff631c82523]
+	GetHandleVerifier [0x0x7ff63215684d+3059501]
+	GetHandleVerifier [0x0x7ff632150c0d+3035885]
+	GetHandleVerifier [0x0x7ff632170400+3164896]
+	GetHandleVerifier [0x0x7ff631e98c3e+185118]
+	GetHandleVerifier [0x0x7ff631ea054f+216111]
+	GetHandleVerifier [0x0x7ff631e872e4+113092]
+	GetHandleVerifier [0x0x7ff631e87499+113529]
+	GetHandleVerifier [0x0x7ff631e6e298+10616]
+	BaseThreadInitThunk [0x0x7ff926a27374+20]
+	RtlUserThreadStart [0x0x7ff927b9cc91+33]
+
+2025-07-27 18:50:37,577 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 18:50:41,970 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 18:50:48,902 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 19:04:09,641 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 19:04:14,585 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 19:04:20,630 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 19:04:29,193 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 19:04:34,614 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 19:05:34,988 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 19:05:39,922 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 19:05:45,399 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 19:05:53,755 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 19:05:59,393 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 19:06:07,805 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 19:06:23,389 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff631e7e935+77845]
+	GetHandleVerifier [0x0x7ff631e7e990+77936]
+	(No symbol) [0x0x7ff631c39cda]
+	(No symbol) [0x0x7ff631c906aa]
+	(No symbol) [0x0x7ff631c9095c]
+	(No symbol) [0x0x7ff631ce3d07]
+	(No symbol) [0x0x7ff631cb890f]
+	(No symbol) [0x0x7ff631ce0b07]
+	(No symbol) [0x0x7ff631cb86a3]
+	(No symbol) [0x0x7ff631c81791]
+	(No symbol) [0x0x7ff631c82523]
+	GetHandleVerifier [0x0x7ff63215684d+3059501]
+	GetHandleVerifier [0x0x7ff632150c0d+3035885]
+	GetHandleVerifier [0x0x7ff632170400+3164896]
+	GetHandleVerifier [0x0x7ff631e98c3e+185118]
+	GetHandleVerifier [0x0x7ff631ea054f+216111]
+	GetHandleVerifier [0x0x7ff631e872e4+113092]
+	GetHandleVerifier [0x0x7ff631e87499+113529]
+	GetHandleVerifier [0x0x7ff631e6e298+10616]
+	BaseThreadInitThunk [0x0x7ff926a27374+20]
+	RtlUserThreadStart [0x0x7ff927b9cc91+33]
+
+2025-07-27 19:06:23,528 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 19:06:28,045 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 19:06:34,599 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 19:07:03,324 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 19:07:08,270 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 19:07:14,026 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 19:07:22,388 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 19:07:27,999 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 19:07:36,565 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 19:07:42,746 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 19:07:47,153 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 19:08:13,289 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 19:09:00,951 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-27 19:09:31,389 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 19:09:36,195 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 19:09:41,614 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 19:09:50,180 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 19:09:55,525 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 19:10:04,077 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 19:10:10,180 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 19:10:14,568 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 19:10:24,033 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 19:11:03,283 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-27 20:40:11,005 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 20:40:15,918 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 20:40:21,688 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 20:40:30,233 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 20:40:35,450 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 20:40:43,844 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 20:40:49,710 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 20:40:54,064 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 20:41:00,511 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 20:41:44,560 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-27 21:12:12,861 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 21:12:17,785 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 21:12:23,403 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 21:12:31,962 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 21:12:37,288 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 21:12:45,636 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 21:12:51,489 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 21:12:55,836 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 21:13:02,052 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 21:13:35,847 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-27 21:56:33,068 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-27 21:56:41,627 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-27 21:56:47,985 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 21:57:06,279 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-27 22:02:42,788 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-27 22:02:47,617 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-27 22:02:53,039 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-27 22:03:01,513 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-27 22:03:06,700 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-27 22:03:15,065 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-27 22:03:20,888 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-27 22:03:25,268 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-27 22:03:31,628 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-27 22:04:09,768 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-28 03:05:42,768 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-28 03:05:47,898 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-28 03:05:53,815 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-28 03:06:02,669 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-28 03:06:08,486 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-28 03:06:17,034 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-28 03:06:23,556 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-28 03:06:28,069 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-28 03:06:34,791 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-28 03:07:14,941 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-28 04:35:20,925 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-28 04:35:25,818 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-28 04:35:31,447 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-28 04:35:39,961 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-28 04:35:45,278 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-28 04:35:53,665 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-28 04:35:59,690 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-28 04:36:04,047 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-28 04:36:10,471 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-28 04:36:49,700 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-28 05:20:07,753 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-28 05:20:12,930 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-28 05:20:19,143 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-28 05:20:27,729 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-28 05:20:33,544 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-28 05:20:42,014 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-28 05:20:48,548 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-28 05:20:53,005 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-28 05:21:20,366 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-28 05:22:01,955 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-28 06:14:24,058 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-28 06:14:29,108 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-28 06:14:35,394 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-28 06:14:44,115 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-28 06:14:49,849 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-28 06:14:58,346 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-28 06:15:04,825 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-28 06:15:09,339 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-28 06:15:36,621 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-28 06:16:17,041 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-28 07:01:28,020 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-28 07:01:33,078 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-28 07:01:39,774 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-28 07:01:48,344 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-28 07:01:54,061 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-28 07:02:02,516 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-28 07:02:09,009 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-28 07:02:13,647 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-28 07:02:20,071 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-28 07:03:00,726 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-30 20:33:44,947 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-30 20:33:49,818 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-30 20:33:55,549 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-30 20:34:03,973 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-30 20:34:09,174 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-30 20:34:17,550 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-30 20:34:23,464 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-30 20:34:27,892 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-30 20:34:33,318 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-30 20:35:06,943 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-30 21:00:50,675 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-30 21:00:55,763 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-30 21:01:01,603 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-30 21:01:10,292 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-30 21:01:15,831 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-30 21:01:24,329 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-30 21:01:30,344 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-30 21:01:34,730 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-30 21:02:01,582 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-30 21:02:43,024 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-30 21:02:53,721 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-30 21:03:02,247 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-30 21:03:08,297 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-30 21:03:29,036 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-30 22:15:12,959 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-30 22:15:17,787 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-30 22:15:23,468 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-30 22:15:32,008 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-30 22:15:37,200 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-30 22:15:45,560 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-30 22:15:51,406 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-30 22:15:55,770 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-30 22:16:22,701 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-30 22:16:58,325 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-30 23:02:45,760 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-30 23:02:50,626 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-30 23:02:56,332 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-30 23:03:04,874 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-30 23:03:10,124 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-30 23:03:18,626 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-30 23:03:24,622 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-30 23:03:28,975 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-30 23:03:35,131 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-30 23:04:15,354 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-30 23:51:42,976 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-07-30 23:51:51,387 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-07-30 23:51:58,161 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-30 23:52:14,405 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-07-31 00:05:34,955 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-31 00:05:39,798 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-31 00:05:45,461 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-31 00:05:53,864 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-31 00:05:59,033 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-31 00:06:07,398 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-31 00:06:13,248 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-31 00:06:17,600 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-31 00:06:22,989 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-31 00:06:58,594 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-31 04:19:10,607 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-31 04:19:15,717 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-31 04:19:22,038 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-31 04:19:30,600 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-31 04:19:36,412 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-31 04:19:44,955 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-31 04:19:51,589 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-31 04:19:56,179 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-31 04:20:03,016 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-31 04:20:43,204 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-07-31 05:02:06,099 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-07-31 05:02:11,506 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-07-31 05:02:17,702 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-07-31 05:02:26,360 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-07-31 05:02:32,088 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-07-31 05:02:40,605 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-07-31 05:02:47,070 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-07-31 05:02:51,670 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-07-31 05:02:58,295 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-07-31 05:03:36,418 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-04 19:12:41,973 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-04 19:12:46,903 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-04 19:12:53,278 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-04 19:13:01,850 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-04 19:13:06,784 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-04 19:13:15,225 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-04 19:13:21,138 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-04 19:13:25,546 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-04 19:13:31,840 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-04 19:14:14,010 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-04 20:39:31,900 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-04 20:41:34,045 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-04 21:36:27,709 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-04 21:37:01,885 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-04 22:04:10,844 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-04 22:04:15,804 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-04 22:04:21,586 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-04 22:04:30,231 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-04 22:04:35,146 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-04 22:04:43,528 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-04 22:04:49,156 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-04 22:04:53,536 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-04 22:04:59,861 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-04 22:05:38,464 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-04 23:30:22,660 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-04 23:30:27,998 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-04 23:30:34,076 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-04 23:30:42,746 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-04 23:30:48,062 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-04 23:30:56,644 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-04 23:31:02,714 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-04 23:31:07,305 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-04 23:31:14,001 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-04 23:31:56,227 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-05 00:40:08,926 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-05 00:40:14,044 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-05 00:40:20,380 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-05 00:40:29,068 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-05 00:40:34,356 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-05 00:40:42,870 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-05 00:40:48,743 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-05 00:40:53,341 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-05 00:41:01,724 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-05 00:41:45,035 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-05 06:04:55,287 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-05 06:05:00,704 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-05 06:05:07,106 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-05 06:05:16,150 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-05 06:05:21,575 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-05 06:05:30,213 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-05 06:05:36,429 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-05 06:05:41,056 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-05 06:05:50,659 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-05 06:06:34,416 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-05 19:22:45,994 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-05 19:22:51,147 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-05 19:22:56,638 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-05 19:23:05,147 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-05 19:23:10,222 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-05 19:23:18,723 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-05 19:23:24,513 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-05 19:23:28,973 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-05 19:23:34,854 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-05 19:24:20,082 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-05 21:00:45,318 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-05 21:00:50,210 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-05 21:00:55,535 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-05 21:01:04,102 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-05 21:01:09,257 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-05 21:01:17,652 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-05 21:01:23,203 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-05 21:01:27,570 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-05 21:01:34,013 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-05 21:02:06,479 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-05 21:02:16,536 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-08-05 21:02:24,911 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-08-05 21:02:30,483 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-05 21:02:47,450 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-05 22:12:47,431 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-05 22:12:52,620 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-05 22:12:58,390 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-05 22:13:07,009 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-05 22:13:12,313 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-05 22:13:20,782 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-05 22:13:26,798 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-05 22:13:31,355 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-05 22:13:38,239 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-05 22:14:24,078 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-05 23:34:38,372 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-05 23:34:43,617 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-05 23:34:49,265 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-05 23:34:57,879 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-05 23:35:03,066 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-05 23:35:11,549 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-05 23:35:17,621 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-05 23:35:22,165 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-05 23:35:49,611 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-05 23:36:32,142 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-05 23:36:55,378 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-08-05 23:37:03,987 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-08-05 23:37:11,711 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-05 23:37:35,862 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-06 02:00:55,805 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-06 02:01:00,693 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-06 02:01:06,169 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-06 02:01:14,649 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-06 02:01:19,563 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-06 02:01:27,932 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-06 02:01:33,462 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-06 02:01:37,904 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-06 02:01:44,501 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-06 02:02:23,726 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-06 04:20:30,779 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-06 04:20:36,110 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-06 04:20:41,915 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-06 04:20:50,989 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-06 04:20:56,231 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-06 04:21:04,783 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-06 04:21:10,732 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-06 04:21:15,282 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-06 04:21:36,242 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-06 04:22:20,454 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-06 05:13:55,922 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-06 05:14:01,063 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-06 05:14:07,035 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-06 05:14:16,068 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-06 05:14:21,325 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-06 05:14:29,985 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-06 05:14:36,066 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-06 05:14:40,620 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-06 05:14:49,208 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-06 05:15:30,904 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-06 06:11:59,979 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-06 06:12:05,299 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-06 06:12:11,595 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-06 06:12:20,661 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-06 06:12:26,120 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-06 06:12:34,697 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-06 06:12:40,773 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-06 06:12:45,374 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-06 06:12:54,585 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-06 06:13:42,578 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-08 19:33:38,855 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-08 19:33:43,745 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-08 19:33:48,744 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-08 19:33:57,138 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-08 19:34:02,062 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-08 19:34:10,613 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-08 19:34:18,388 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-08 19:34:22,826 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-08 19:34:28,342 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-08 19:35:18,075 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-08 20:37:53,037 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-08 20:37:57,898 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-08 20:38:03,067 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-08 20:38:11,550 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-08 20:38:16,554 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-08 20:38:24,965 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-08 20:38:30,505 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-08 20:38:34,895 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-08 20:38:42,551 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-08 20:39:26,178 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-08 21:51:59,720 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-08 21:52:04,650 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-08 21:52:09,803 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-08 21:52:18,326 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-08 21:52:23,294 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-08 21:52:31,654 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-08 21:52:37,202 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-08 21:52:41,587 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-08 21:53:08,959 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-08 21:53:47,825 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-08 22:09:38,589 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-08-08 22:09:47,177 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-08-08 22:09:52,861 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-08 22:10:10,434 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-08 22:30:09,494 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-08 22:30:14,347 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-08 22:30:19,527 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-08 22:30:28,025 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-08 22:30:32,978 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-08 22:30:41,362 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-08 22:30:47,014 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-08 22:30:51,429 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-08 22:31:18,807 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-08 22:32:05,163 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-08 23:27:24,518 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-08-08 23:27:33,038 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-08-08 23:27:43,609 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-08 23:28:03,004 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-09 00:05:44,727 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-09 00:05:49,976 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-09 00:05:56,010 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-09 00:06:05,065 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-09 00:06:10,435 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-09 00:06:18,997 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-09 00:06:25,000 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-09 00:06:29,505 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-09 00:06:36,654 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-09 00:07:23,814 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-09 01:04:13,172 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-09 01:04:18,400 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-09 01:04:24,451 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-09 01:04:33,458 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-09 01:04:38,720 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-09 01:04:47,263 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-09 01:04:53,213 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-09 01:04:57,810 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-09 01:05:06,958 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-09 01:05:50,137 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-09 06:07:34,255 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-09 06:07:39,205 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-09 06:07:44,957 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-09 06:07:53,981 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-09 06:07:58,931 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-09 06:08:07,332 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-09 06:08:12,876 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-09 06:08:17,291 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-09 06:08:25,789 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-09 06:09:07,476 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-09 19:05:50,091 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-09 19:05:55,202 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-09 19:06:00,680 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-09 19:06:09,857 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-09 19:06:15,024 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-09 19:06:23,549 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-09 19:06:29,280 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-09 19:06:33,734 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-09 19:06:41,785 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-09 19:07:23,478 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-09 20:04:29,717 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-09 20:04:34,987 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-09 20:04:40,899 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-09 20:04:49,785 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-09 20:04:55,063 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-09 20:05:03,688 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-09 20:05:09,740 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-09 20:05:14,341 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-09 20:05:23,660 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-09 20:06:10,327 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-09 21:07:09,418 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-09 21:07:14,695 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-09 21:07:20,895 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-09 21:07:29,591 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-09 21:07:34,943 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-09 21:07:43,533 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-09 21:07:49,512 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-09 21:07:54,446 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-09 21:08:01,703 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-09 21:08:46,512 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-09 21:08:57,041 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-08-09 21:09:05,763 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-08-09 21:09:11,954 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-09 21:09:37,602 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-09 22:13:09,864 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-09 22:13:14,943 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-09 22:13:20,847 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-09 22:13:29,848 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-09 22:13:35,012 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-09 22:13:43,521 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-09 22:13:49,179 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-09 22:13:53,650 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-09 22:14:01,917 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-09 22:14:39,029 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-09 23:03:57,374 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-09 23:04:02,601 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-09 23:04:08,765 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-09 23:04:17,856 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-09 23:04:23,215 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-09 23:04:31,848 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-09 23:04:37,825 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-09 23:04:42,471 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-09 23:04:51,121 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-09 23:05:36,175 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-09 23:31:48,675 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-08-09 23:31:57,673 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-08-09 23:32:13,698 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff662a8e415+77285]
+	GetHandleVerifier [0x0x7ff662a8e470+77376]
+	(No symbol) [0x0x7ff662859a6a]
+	(No symbol) [0x0x7ff6628b0406]
+	(No symbol) [0x0x7ff6628b06bc]
+	(No symbol) [0x0x7ff662903ac7]
+	(No symbol) [0x0x7ff6628d864f]
+	(No symbol) [0x0x7ff66290087f]
+	(No symbol) [0x0x7ff6628d83e3]
+	(No symbol) [0x0x7ff6628a1521]
+	(No symbol) [0x0x7ff6628a22b3]
+	GetHandleVerifier [0x0x7ff662d71efd+3107021]
+	GetHandleVerifier [0x0x7ff662d6c29d+3083373]
+	GetHandleVerifier [0x0x7ff662d8bedd+3213485]
+	GetHandleVerifier [0x0x7ff662aa884e+184862]
+	GetHandleVerifier [0x0x7ff662ab055f+216879]
+	GetHandleVerifier [0x0x7ff662a97084+113236]
+	GetHandleVerifier [0x0x7ff662a97239+113673]
+	GetHandleVerifier [0x0x7ff662a7e298+11368]
+	BaseThreadInitThunk [0x0x7ffaa2337374+20]
+	RtlUserThreadStart [0x0x7ffaa41bcc91+33]
+
+2025-08-09 23:32:13,872 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-09 23:32:38,962 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-10 04:38:13,333 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-10 04:38:18,751 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-10 04:38:24,594 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-10 04:38:33,320 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-10 04:38:38,725 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-10 04:38:47,417 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-10 04:38:53,470 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 04:38:58,053 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-10 04:39:06,417 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-10 04:39:56,103 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-10 06:02:21,879 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-10 06:02:27,154 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-10 06:02:35,070 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-10 06:02:44,480 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-10 06:02:50,792 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-10 06:02:59,454 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-10 06:03:05,424 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 06:03:10,155 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-10 06:03:22,204 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-10 06:04:08,017 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-10 19:43:59,522 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-10 19:44:04,355 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-10 19:44:10,030 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-10 19:44:18,312 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-10 19:44:23,213 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-10 19:44:31,459 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-10 19:44:36,990 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 19:44:41,414 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-10 19:44:48,834 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-10 19:45:32,210 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-10 19:46:06,456 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-10 19:46:11,247 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-10 19:46:16,347 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-10 19:46:24,718 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-10 19:46:29,620 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-10 19:46:38,022 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-10 19:46:43,607 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 19:46:47,959 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-10 19:46:54,050 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-10 19:47:34,108 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-10 20:37:44,935 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-10 20:37:49,716 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-10 20:37:55,434 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-10 20:38:04,297 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-10 20:38:09,236 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-10 20:38:17,598 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-10 20:38:23,155 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 20:38:27,533 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-10 20:38:35,741 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-10 20:39:16,560 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-10 21:28:52,374 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-10 21:28:57,172 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-10 21:29:02,892 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-10 21:29:11,767 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-10 21:29:16,726 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-10 21:29:25,086 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-10 21:29:30,673 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 21:29:35,061 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-10 21:29:42,946 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-10 21:30:25,481 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-10 21:30:35,650 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-08-10 21:30:44,026 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-08-10 21:30:49,711 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 21:31:12,571 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-10 22:21:16,801 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-10 22:21:21,939 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-10 22:21:27,600 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-10 22:21:36,210 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-10 22:21:41,308 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-10 22:21:49,815 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-10 22:21:55,766 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 22:22:00,338 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-10 22:22:08,001 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-10 22:22:59,368 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-10 23:09:21,545 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-10 23:09:26,595 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-10 23:09:32,009 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-10 23:09:41,138 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-10 23:09:46,489 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-10 23:09:55,005 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-10 23:10:00,869 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 23:10:05,370 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-10 23:10:13,701 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-10 23:10:59,284 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-10 23:34:01,822 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-10 23:34:06,852 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-10 23:34:12,919 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-10 23:34:21,478 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-10 23:34:26,897 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-10 23:34:35,453 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-10 23:34:41,349 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 23:34:45,914 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-10 23:34:53,398 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-10 23:35:42,784 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-10 23:35:53,591 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-08-10 23:36:02,372 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-08-10 23:36:08,589 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-10 23:36:33,687 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-11 00:01:14,691 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-11 00:01:19,597 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-11 00:01:25,435 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-11 00:01:33,839 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-11 00:01:38,805 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-11 00:01:47,188 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-11 00:02:02,280 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff683a0e415+77285]
+	GetHandleVerifier [0x0x7ff683a0e470+77376]
+	(No symbol) [0x0x7ff6837d9a6a]
+	(No symbol) [0x0x7ff683830406]
+	(No symbol) [0x0x7ff6838306bc]
+	(No symbol) [0x0x7ff683883ac7]
+	(No symbol) [0x0x7ff68385864f]
+	(No symbol) [0x0x7ff68388087f]
+	(No symbol) [0x0x7ff6838583e3]
+	(No symbol) [0x0x7ff683821521]
+	(No symbol) [0x0x7ff6838222b3]
+	GetHandleVerifier [0x0x7ff683cf1efd+3107021]
+	GetHandleVerifier [0x0x7ff683cec29d+3083373]
+	GetHandleVerifier [0x0x7ff683d0bedd+3213485]
+	GetHandleVerifier [0x0x7ff683a2884e+184862]
+	GetHandleVerifier [0x0x7ff683a3055f+216879]
+	GetHandleVerifier [0x0x7ff683a17084+113236]
+	GetHandleVerifier [0x0x7ff683a17239+113673]
+	GetHandleVerifier [0x0x7ff6839fe298+11368]
+	BaseThreadInitThunk [0x0x7ffaa2337374+20]
+	RtlUserThreadStart [0x0x7ffaa41bcc91+33]
+
+2025-08-11 00:02:02,361 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-11 00:02:06,767 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-11 00:02:14,954 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-11 00:02:58,915 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-13 19:13:13,568 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-13 19:13:18,524 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-13 19:13:24,739 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-13 19:13:33,528 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-13 19:13:38,464 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-13 19:13:46,903 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-13 19:13:52,769 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-13 19:13:57,152 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-13 19:14:05,066 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-13 19:15:01,932 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-13 21:58:27,276 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-13 21:58:32,237 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-13 21:58:38,075 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-13 21:58:46,922 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-13 21:58:51,909 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-13 21:59:00,350 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-13 21:59:05,943 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-13 21:59:10,324 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-13 21:59:18,439 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-13 22:00:04,459 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-13 22:00:15,006 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-08-13 22:00:23,492 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-08-13 22:00:29,199 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-13 22:00:54,196 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-13 23:10:03,191 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-13 23:10:08,152 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-13 23:10:13,969 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-13 23:10:22,763 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-13 23:10:27,745 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-13 23:10:36,224 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-13 23:10:41,927 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-13 23:10:46,368 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-13 23:10:54,752 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-13 23:11:41,421 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-13 23:11:57,221 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-13 23:12:02,184 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-13 23:12:07,362 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-13 23:12:15,903 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-13 23:12:21,254 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-13 23:12:29,641 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-13 23:12:35,566 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-13 23:12:39,916 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-13 23:12:46,200 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-13 23:13:25,205 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-13 23:28:51,796 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_prd.png
+2025-08-13 23:29:00,138 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix_status.png
+2025-08-13 23:29:08,989 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-13 23:29:35,772 - WARNING - #PIX - Mensagem e imagem enviadas no Teams!
+2025-08-14 00:00:35,908 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-14 00:00:40,791 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-14 00:00:46,135 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-14 00:00:54,553 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-14 00:00:59,494 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-14 00:01:07,814 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-14 00:01:22,863 - WARNING - Erro ao clicar no botão: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7c6fb6b25+79621]
+	GetHandleVerifier [0x0x7ff7c6fb6b80+79712]
+	(No symbol) [0x0x7ff7c6d4c0ea]
+	(No symbol) [0x0x7ff7c6da2f56]
+	(No symbol) [0x0x7ff7c6da320c]
+	(No symbol) [0x0x7ff7c6df65b7]
+	(No symbol) [0x0x7ff7c6dcb17f]
+	(No symbol) [0x0x7ff7c6df33d0]
+	(No symbol) [0x0x7ff7c6dcaf13]
+	(No symbol) [0x0x7ff7c6d94151]
+	(No symbol) [0x0x7ff7c6d94ee3]
+	GetHandleVerifier [0x0x7ff7c727683d+2962461]
+	GetHandleVerifier [0x0x7ff7c7270b5d+2938685]
+	GetHandleVerifier [0x0x7ff7c728f71d+3064573]
+	GetHandleVerifier [0x0x7ff7c6fd0c6e+186446]
+	GetHandleVerifier [0x0x7ff7c6fd8a3f+218655]
+	GetHandleVerifier [0x0x7ff7c6fbf914+115956]
+	GetHandleVerifier [0x0x7ff7c6fbfac9+116393]
+	GetHandleVerifier [0x0x7ff7c6fa5ef8+10968]
+	BaseThreadInitThunk [0x0x7ffb6b917374+20]
+	RtlUserThreadStart [0x0x7ffb6ccdcc91+33]
+
+2025-08-14 00:01:22,981 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-14 00:01:27,368 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-14 00:01:35,092 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-14 00:02:19,685 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-14 02:06:14,389 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-14 02:06:19,327 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-14 02:06:24,557 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-14 02:06:33,032 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-14 02:06:38,017 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-14 02:06:46,340 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-14 02:06:51,867 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-14 02:06:56,225 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-14 02:07:03,040 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-14 02:07:42,065 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-14 03:10:26,583 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-14 03:10:31,833 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-14 03:10:37,437 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-14 03:10:46,581 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-14 03:10:52,017 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-14 03:11:00,469 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-14 03:11:06,565 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-14 03:11:11,039 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-14 03:11:19,800 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-14 03:12:01,025 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-14 04:30:13,473 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-14 04:30:18,687 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-14 04:30:24,639 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-14 04:30:33,248 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-14 04:30:38,646 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-14 04:30:47,136 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-14 04:30:53,901 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-14 04:30:58,419 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-14 04:31:05,691 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-14 04:31:49,761 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!
+2025-08-14 05:10:09,726 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/fisico.png
+2025-08-14 05:10:14,655 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/ecommerce.png
+2025-08-14 05:10:20,812 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/arquivos.png
+2025-08-14 05:10:29,700 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/banese.png
+2025-08-14 05:10:34,984 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/unificada.png
+2025-08-14 05:10:43,435 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/softpass.png
+2025-08-14 05:10:49,221 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/pix.png
+2025-08-14 05:10:53,572 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/zabbix.png
+2025-08-14 05:11:01,628 - INFO - \U0001f5bc\ufe0f Screenshot salva: img/uptime.png
+2025-08-14 05:11:41,977 - WARNING - #CHECKLIST - Mensagem e imagem enviadas no Teams!

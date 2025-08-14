@@ -1,0 +1,30 @@
+2025-07-17 05:49:34 - Arquivo de log criado automaticamente em: C:\Users\ADQT0141\OneDrive - Banco BS2\Área de Trabalho\Lua\CopiaArquivos_20250717_054934.txt
+2025-07-17 05:49:34 - === Início da verificação ===
+2025-07-17 05:49:34 - 3 arquivos encontrados para Mastercard.
+2025-07-17 05:49:36 - 3 arquivos encontrados para Hipercard.
+2025-07-17 05:49:36 - 4 arquivos encontrados para Elo.
+2025-07-17 05:49:37 - Pasta encontrada para Amex: \\adqtspvpfs01\appfiles\PAC_PRD\INCOMING\AMEX\2025.07.16
+2025-07-17 05:49:37 - Nenhum arquivo encontrado para Amex.
+2025-07-17 05:49:37 - === Fim da verificação ===
+2025-07-17 05:49:49 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\BACKUP\PRD_MST_T140_D250717.T210059_A001
+2025-07-17 05:49:49 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\BACKUP\PRD_MST_T140_D250717.T230535_A002
+2025-07-17 05:49:50 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\BACKUP\PRD_MST_T140_D250717.T025507_A003
+2025-07-17 05:49:51 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\PRD_HIP_T140_D250717.T210106_A001
+2025-07-17 05:49:51 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\PRD_HIP_T140_D250717.T230541_A002
+2025-07-17 05:49:51 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\PRD_HIP_T140_D250717.T025516_A003
+2025-07-17 05:49:53 - Copiado: \\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\AGECRED_C_5190_20250717_075556.txt
+2025-07-17 05:49:53 - Copiado: \\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\AGECRED_D_5190_20250717_075603.txt
+2025-07-17 05:49:53 - Copiado: \\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\AGECRED_C_5030_20250717_075243.txt
+2025-07-17 05:49:53 - Copiado: \\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\BACKUP\AGECRED_D_5030_20250717_075550.txt
+2025-07-17 05:49:56 - Copiado: \\adqtspvpfs01\appfiles\PAC_PRD\INCOMING\AMEX\2025.07.16
+2025-07-17 05:56:05 - Removido no rollback: C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\Mastercard\PRD_MST_T140_D250717.T210059_A001
+2025-07-17 05:56:05 - Removido no rollback: C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\Mastercard\PRD_MST_T140_D250717.T230535_A002
+2025-07-17 05:56:05 - Removido no rollback: C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\Mastercard\PRD_MST_T140_D250717.T025507_A003
+2025-07-17 05:56:05 - Removido no rollback: C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\Hipercard\PRD_HIP_T140_D250717.T210106_A001
+2025-07-17 05:56:05 - Removido no rollback: C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\Hipercard\PRD_HIP_T140_D250717.T230541_A002
+2025-07-17 05:56:05 - Removido no rollback: C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\Hipercard\PRD_HIP_T140_D250717.T025516_A003
+2025-07-17 05:56:05 - Removido no rollback: C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\ELO\AGECRED_C_5190_20250717_075556.txt
+2025-07-17 05:56:05 - Removido no rollback: C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\ELO\AGECRED_D_5190_20250717_075603.txt
+2025-07-17 05:56:05 - Removido no rollback: C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\ELO\AGECRED_C_5030_20250717_075243.txt
+2025-07-17 05:56:05 - Removido no rollback: C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\ELO\AGECRED_D_5030_20250717_075550.txt
+2025-07-17 05:56:05 - Erro ao remover C:\Users\ADQT0141\Banco BS2\Externo_Adiq_BS2 - Projeto CMM\AMEX\AMEX-INCOMING\2025.07.16: [WinError 5] Acesso negado: 'C:\\Users\\ADQT0141\\Banco BS2\\Externo_Adiq_BS2 - Projeto CMM\\AMEX\\AMEX-INCOMING\\2025.07.16'

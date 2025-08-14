@@ -1,0 +1,18 @@
+2025-07-22 05:35:23 - Arquivo de log criado automaticamente em: C:\Users\ADQT0141\OneDrive - Banco BS2\Área de Trabalho\Lua\CopiaArquivos_20250722_053523.txt
+2025-07-22 05:35:23 - === Início da verificação ===
+2025-07-22 05:35:23 - 2 arquivos encontrados para Mastercard.
+2025-07-22 05:35:25 - 3 arquivos encontrados para Hipercard.
+2025-07-22 05:35:25 - 4 arquivos encontrados para Elo.
+2025-07-22 05:35:25 - Pasta encontrada para Amex: \\adqtspvpfs01\appfiles\PAC_PRD\INCOMING\AMEX\2025.07.21
+2025-07-22 05:35:25 - Nenhum arquivo encontrado para Amex.
+2025-07-22 05:35:25 - === Fim da verificação ===
+2025-07-22 05:35:31 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\BACKUP\PRD_MST_T140_D250722.T212025_A001
+2025-07-22 05:35:31 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\BACKUP\PRD_MST_T140_D250722.T231405_A002
+2025-07-22 05:35:32 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\PRD_HIP_T140_D250722.T212036_A001
+2025-07-22 05:35:32 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\PRD_HIP_T140_D250722.T231410_A002
+2025-07-22 05:35:32 - Copiado: \\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\PRD_HIP_T140_D250722.T031129_A003
+2025-07-22 05:35:34 - Copiado: \\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\AGECRED_C_5190_20250722_070429.txt
+2025-07-22 05:35:34 - Copiado: \\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\AGECRED_D_5190_20250722_070554.txt
+2025-07-22 05:35:34 - Copiado: \\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\AGECRED_C_5030_20250722_070109.txt
+2025-07-22 05:35:34 - Copiado: \\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\AGECRED_D_5030_20250722_070539.txt
+2025-07-22 05:35:36 - Copiado: \\adqtspvpfs01\appfiles\PAC_PRD\INCOMING\AMEX\2025.07.21

@@ -15,15 +15,15 @@ app.geometry("950x650")
 # ================= Variáveis ==================
 folder_list = [
     r"\\adqtspvpfs01\integracao\Nuclea-SLC-Cred\NucleaSaida",
-    r"\\adqtspvpfs01\appfiles\Adquirencia\Legados\Sub\FP\Entrada",
+    r"\\adqtspvpfs01\Integracao\Connect\DXC\RECEBE",
 ]
 
 limite_minutos = 1
 intervalo_verificacao_ms = 600000  # 10 minutos padrão
 verificacao_ativa = True
 
-extensoes_disponiveis = [".xml", ".txt", ".csv", ".json", ".log", ".xlsx", ".docx", ".pdf", ".zip", ".rar"]
-extensoes_monitoradas = [".xml", ".txt"]
+extensoes_disponiveis = [".xml", ".txt", ".csv", ".json", ".log", ".xlsx", ".docx", ".pdf", ".zip", ".rar", ".DAT"]
+extensoes_monitoradas = [".xml", ".txt", ".DAT"]
 
 
 # ================= Layout ==================
@@ -173,6 +173,8 @@ def verificar_arquivos():
 btn_arquivos = ctk.CTkButton(frame_sidebar, text="Arquivo parado na pasta", fg_color="gray30",
                               hover_color="gray40", command=lambda: frame_arquivo_parado_pasta.lift())
 btn_arquivos.pack(fill="x", pady=5, padx=10)
+
+
 
 btn_adicionar_pasta = ctk.CTkButton(frame_sidebar, text="➕ Adicionar Pasta", command=adicionar_pasta)
 btn_adicionar_pasta.pack(pady=5, padx=10, fill="x")

@@ -1,0 +1,6 @@
+2025-07-09 06:25:38 - Arquivo de log criado automaticamente em: .\logs\CopiaArquivos_20250709_062538.txt
+2025-07-09 06:25:38 - 3 arquivos encontrados para Mastercard.
+2025-07-09 06:25:38 - 3 arquivos encontrados para Hipercard.
+2025-07-09 06:25:39 - 4 arquivos encontrados para Elo.
+2025-07-09 06:25:39 - Pasta encontrada para Amex: \\adqtspvpfs01\appfiles\PAC_PRD\INCOMING\AMEX\2025.07.08
+2025-07-09 06:25:39 - === Fim da verificação ===

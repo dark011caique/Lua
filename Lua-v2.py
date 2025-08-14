@@ -1211,8 +1211,8 @@ def process_file():
             result_text.insert("end", formatted_error_summary.strip())  # Insere o novo conteúdo na caixa de texto
             
             # Exibir também no terminal
-            print("\nResumo dos erros:")
-            print(formatted_error_summary)
+            # print("\nResumo dos erros:")
+            # print(formatted_error_summary)
             
             messagebox.showinfo("Sucesso", "Arquivo processado com sucesso!")
             logging.warning("Sucesso", "Arquivo processado com sucesso!")
@@ -1324,182 +1324,182 @@ btn_frog = ctk.CTkButton(frame_frog, text="Frog Pay", command=atualizar_contagem
 btn_frog.pack(pady=20)
 
 
-# ================= Frame da aba ==================
-frame_mover_arquivos = ctk.CTkFrame(frame_main)
+# # ================= Frame da aba ==================
+# frame_mover_arquivos = ctk.CTkFrame(frame_main)
 
-# ================= Dados dos caminhos ==================
-BANDEIRAS = {
-    "Mastercard": {
-        "origem": [Path(r"\\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\BACKUP")],
-        "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM/Mastercard",
-        "mascaras": ["PRD_MST_T140_D{0}.*_A001", "PRD_MST_T140_D{0}.*_A002", "PRD_MST_T140_D{0}.*_A003"]
-    },
-    "Hipercard": {
-        "origem": [Path(r"\\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE")],
-        "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM/Hipercard",
-        "mascaras": ["PRD_HIP_T140_D{0}.*_A001", "PRD_HIP_T140_D{0}.*_A002", "PRD_HIP_T140_D{0}.*_A003"]
-    },
-    "Elo": {
-        "origem": [
-            Path(r"\\adqtspvpfs01\Integracao\Connect\ELO\RECEBE"),
-            Path(r"\\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\BACKUP")
-        ],
-        "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM/ELO",
-        "mascaras": [
-            "AGECRED_C_5190_{0}_*.TXT", "AGECRED_D_5190_{0}_*.TXT",
-            "AGECRED_C_5030_{0}_*.TXT", "AGECRED_D_5030_{0}_*.TXT"
-        ]
-    },
-    "Amex": {
-        "origem": [Path(r"\\adqtspvpfs01\appfiles\PAC_PRD\INCOMING\AMEX")],
-        "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM/AMEX/AMEX-INCOMING",
-        "mascaras": []
-    }
-}
+# # ================= Dados dos caminhos ==================
+# BANDEIRAS = {
+#     "Mastercard": {
+#         "origem": [Path(r"\\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE\BACKUP")],
+#         "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM (1)/Mastercard",
+#         "mascaras": ["PRD_MST_T140_D{0}.*_A001", "PRD_MST_T140_D{0}.*_A002", "PRD_MST_T140_D{0}.*_A003"]
+#     },
+#     "Hipercard": {
+#         "origem": [Path(r"\\adqtspvpfs01\Integracao\Connect\MASTERCARD\RECEBE")],
+#         "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM (1))/Hipercard",
+#         "mascaras": ["PRD_HIP_T140_D{0}.*_A001", "PRD_HIP_T140_D{0}.*_A002", "PRD_HIP_T140_D{0}.*_A003"]
+#     },
+#     "Elo": {
+#         "origem": [
+#             Path(r"\\adqtspvpfs01\Integracao\Connect\ELO\RECEBE"),
+#             Path(r"\\adqtspvpfs01\Integracao\Connect\ELO\RECEBE\BACKUP")
+#         ],
+#         "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM (1)/ELO",
+#         "mascaras": [
+#             "AGECRED_C_5190_{0}_*.TXT", "AGECRED_D_5190_{0}_*.TXT",
+#             "AGECRED_C_5030_{0}_*.TXT", "AGECRED_D_5030_{0}_*.TXT"
+#         ]
+#     },
+#     "Amex": {
+#         "origem": [Path(r"\\adqtspvpfs01\appfiles\PAC_PRD\INCOMING\AMEX")],
+#         "destino": Path.home() / "Banco BS2/Externo_Adiq_BS2 - Projeto CMM/AMEX/AMEX-INCOMING",
+#         "mascaras": []
+#     }
+# }
 
-# ================= Variáveis globais ==================
-copied_files = []
-arquivos_para_copiar = {}
-log_path = ""
-stop_process = False
-
-
-# ================= Funções ==================
-
-def log(mensagem):
-    if log_path:
-        with open(log_path, "a", encoding="utf-8") as f:
-            f.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - {mensagem}\n")
+# # ================= Variáveis globais ==================
+# copied_files = []
+# arquivos_para_copiar = {}
+# log_path = ""
+# stop_process = False
 
 
-def add_status(text):
-    text_status.configure(state="normal")
-    text_status.insert("end", text + "\n")
-    text_status.see("end")
-    text_status.configure(state="disabled")
+# # ================= Funções ==================
+
+# def log(mensagem):
+#     if log_path:
+#         with open(log_path, "a", encoding="utf-8") as f:
+#             f.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - {mensagem}\n")
 
 
-log_path = None  # variável global
-
-def selecionar_log():
-    global log_path
-
-    # ✅ Caminho fixo informado por você
-    log_dir = r"C:\Users\ADQT0141\OneDrive - Banco BS2\Área de Trabalho\Lua"
-
-    # ✅ Garante que a pasta exista
-    os.makedirs(log_dir, exist_ok=True)
-
-    # ✅ Nome automático com timestamp
-    log_filename = f"CopiaArquivos_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
-    log_path = os.path.join(log_dir, log_filename)
-
-    # ✅ Cria o log com a primeira entrada
-    log(f"Arquivo de log criado automaticamente em: {log_path}")
+# def add_status(text):
+#     text_status.configure(state="normal")
+#     text_status.insert("end", text + "\n")
+#     text_status.see("end")
+#     text_status.configure(state="disabled")
 
 
+# log_path = None  # variável global
 
-def verificar_arquivos():
-    arquivos_para_copiar.clear()
-    text_status.configure(state="normal")
-    text_status.delete("1.0", "end")
-    add_status("Iniciando verificação de arquivos...")
-    log("=== Início da verificação ===")
+# def selecionar_log():
+#     global log_path
 
-    hoje_yyMMdd = datetime.now().strftime('%y%m%d')
-    hoje_yyyMMdd = datetime.now().strftime('%Y%m%d')
+#     # ✅ Caminho fixo informado por você
+#     log_dir = r".\\logs"
 
-    for nome, dados in BANDEIRAS.items():
-        if not chk_bandeiras[nome].get():
-            continue
+#     # ✅ Garante que a pasta exista
+#     os.makedirs(log_dir, exist_ok=True)
 
-        arquivos = []
+#     # ✅ Nome automático com timestamp
+#     log_filename = f"CopiaArquivos_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+#     log_path = os.path.join(log_dir, log_filename)
 
-        for origem in dados['origem']:
-            if nome == "Amex":
-                data_pasta = (datetime.now() - timedelta(days=1)).strftime('%Y.%m.%d')
-                pasta_origem = origem / data_pasta
-                if pasta_origem.exists() and pasta_origem.is_dir():
-                    arquivos_para_copiar[nome] = [pasta_origem]
-                    msg = f"Pasta encontrada para {nome}: {pasta_origem}"
-                else:
-                    msg = f"Nenhuma pasta encontrada para {nome} com nome {data_pasta}."
-                log(msg)
-                add_status(msg)
-            else:
-                data_formatada = hoje_yyMMdd if nome in ["Hipercard", "Mastercard"] else hoje_yyyMMdd
-                for mascara in dados['mascaras']:
-                    padrao = mascara.format(data_formatada)
-                    arquivos.extend(origem.glob(padrao))
-
-        if arquivos:
-            arquivos_para_copiar[nome] = arquivos
-            msg = f"{len(arquivos)} arquivos encontrados para {nome}."
-        else:
-            msg = f"Nenhum arquivo encontrado para {nome}."
-        log(msg)
-        add_status(msg)
-
-    log("=== Fim da verificação ===")
-    add_status("Verificação concluída.")
+#     # ✅ Cria o log com a primeira entrada
+#     log(f"Arquivo de log criado automaticamente em: {log_path}")
 
 
-def iniciar_copia():
-    global stop_process
-    stop_process = False
-    copied_files.clear()
 
-    total = sum(len(v) for v in arquivos_para_copiar.values())
-    atual = 0
+# def verificar_arquivos():
+#     arquivos_para_copiar.clear()
+#     text_status.configure(state="normal")
+#     text_status.delete("1.0", "end")
+#     add_status("Iniciando verificação de arquivos...")
+#     log("=== Início da verificação ===")
 
-    for nome, itens in arquivos_para_copiar.items():
-        destino = BANDEIRAS[nome]['destino']
-        if not itens:
-            continue
-        if not messagebox.askyesno("Confirmação", f"Deseja copiar arquivos para {nome}?"):
-            continue
-        for item in itens:
-            if stop_process:
-                return
-            try:
-                destino.mkdir(parents=True, exist_ok=True)
-                dest_path = destino / item.name
-                if dest_path.exists():
-                    msg = f"Arquivo ou pasta já existe e não será copiado: {dest_path}"
-                    log(msg)
-                    add_status(msg)
-                    continue
-                if item.is_dir():
-                    shutil.copytree(item, dest_path)
-                else:
-                    shutil.copy2(item, dest_path)
-                copied_files.append(dest_path)
-                atual += 1
-                msg = f"Copiado: {item}"
-                log(msg)
-                add_status(msg)
-                barra_var.set(f"Progresso: {atual}/{total}")
-                frame_mover_arquivos.update_idletasks()
-            except Exception as e:
-                log(f"Erro ao copiar {item}: {str(e)}")
-                messagebox.showerror("Erro", f"Erro ao copiar {item}: {str(e)}")
+#     hoje_yyMMdd = datetime.now().strftime('%y%m%d')
+#     hoje_yyyMMdd = datetime.now().strftime('%Y%m%d')
+
+#     for nome, dados in BANDEIRAS.items():
+#         if not chk_bandeiras[nome].get():
+#             continue
+
+#         arquivos = []
+
+#         for origem in dados['origem']:
+#             if nome == "Amex":
+#                 data_pasta = (datetime.now() - timedelta(days=1)).strftime('%Y.%m.%d')
+#                 pasta_origem = origem / data_pasta
+#                 if pasta_origem.exists() and pasta_origem.is_dir():
+#                     arquivos_para_copiar[nome] = [pasta_origem]
+#                     msg = f"Pasta encontrada para {nome}: {pasta_origem}"
+#                 else:
+#                     msg = f"Nenhuma pasta encontrada para {nome} com nome {data_pasta}."
+#                 log(msg)
+#                 add_status(msg)
+#             else:
+#                 data_formatada = hoje_yyMMdd if nome in ["Hipercard", "Mastercard"] else hoje_yyyMMdd
+#                 for mascara in dados['mascaras']:
+#                     padrao = mascara.format(data_formatada)
+#                     arquivos.extend(origem.glob(padrao))
+
+#         if arquivos:
+#             arquivos_para_copiar[nome] = arquivos
+#             msg = f"{len(arquivos)} arquivos encontrados para {nome}."
+#         else:
+#             msg = f"Nenhum arquivo encontrado para {nome}."
+#         log(msg)
+#         add_status(msg)
+
+#     log("=== Fim da verificação ===")
+#     add_status("Verificação concluída.")
 
 
-def desfazer():
-    if not copied_files:
-        messagebox.showinfo("Info", "Nenhum arquivo para desfazer.")
-        return
-    if not messagebox.askyesno("Confirmação", "Deseja desfazer as cópias realizadas?"):
-        return
-    for f in copied_files:
-        try:
-            f.unlink()
-            log(f"Removido no rollback: {f}")
-        except Exception as e:
-            log(f"Erro ao remover {f}: {str(e)}")
-    copied_files.clear()
-    add_status("Rollback executado: arquivos removidos.")
-    messagebox.showinfo("Rollback", "Arquivos removidos com sucesso.")
+# def iniciar_copia():
+#     global stop_process
+#     stop_process = False
+#     copied_files.clear()
+
+#     total = sum(len(v) for v in arquivos_para_copiar.values())
+#     atual = 0
+
+#     for nome, itens in arquivos_para_copiar.items():
+#         destino = BANDEIRAS[nome]['destino']
+#         if not itens:
+#             continue
+#         if not messagebox.askyesno("Confirmação", f"Deseja copiar arquivos para {nome}?"):
+#             continue
+#         for item in itens:
+#             if stop_process:
+#                 return
+#             try:
+#                 destino.mkdir(parents=True, exist_ok=True)
+#                 dest_path = destino / item.name
+#                 if dest_path.exists():
+#                     msg = f"Arquivo ou pasta já existe e não será copiado: {dest_path}"
+#                     log(msg)
+#                     add_status(msg)
+#                     continue
+#                 if item.is_dir():
+#                     shutil.copytree(item, dest_path)
+#                 else:
+#                     shutil.copy2(item, dest_path)
+#                 copied_files.append(dest_path)
+#                 atual += 1
+#                 msg = f"Copiado: {item}"
+#                 log(msg)
+#                 add_status(msg)
+#                 barra_var.set(f"Progresso: {atual}/{total}")
+#                 frame_mover_arquivos.update_idletasks()
+#             except Exception as e:
+#                 log(f"Erro ao copiar {item}: {str(e)}")
+#                 messagebox.showerror("Erro", f"Erro ao copiar {item}: {str(e)}")
+
+
+# def desfazer():
+#     if not copied_files:
+#         messagebox.showinfo("Info", "Nenhum arquivo para desfazer.")
+#         return
+#     if not messagebox.askyesno("Confirmação", "Deseja desfazer as cópias realizadas?"):
+#         return
+#     for f in copied_files:
+#         try:
+#             f.unlink()
+#             log(f"Removido no rollback: {f}")
+#         except Exception as e:
+#             log(f"Erro ao remover {f}: {str(e)}")
+#     copied_files.clear()
+#     add_status("Rollback executado: arquivos removidos.")
+#     messagebox.showinfo("Rollback", "Arquivos removidos com sucesso.")
 
 
 # def parar():
@@ -1512,37 +1512,37 @@ def desfazer():
 # ================= Layout ==================
 
 # 👉 Área esquerda (botões + checklist)
-frame_left = ctk.CTkFrame(frame_mover_arquivos)
-frame_left.pack(side="left", fill="y", padx=10, pady=10)
+# frame_left = ctk.CTkFrame(frame_mover_arquivos)
+# frame_left.pack(side="left", fill="y", padx=10, pady=10)
 
-btn_verificar = ctk.CTkButton(frame_left, text="Verificar Arquivos", command=lambda: [selecionar_log(), verificar_arquivos()])
-btn_verificar.pack(pady=5, fill='x')
+# btn_verificar = ctk.CTkButton(frame_left, text="Verificar Arquivos", command=lambda: [selecionar_log(), verificar_arquivos()])
+# btn_verificar.pack(pady=5, fill='x')
 
-btn_iniciar = ctk.CTkButton(frame_left, text="Iniciar Cópia", command=iniciar_copia)
-btn_iniciar.pack(pady=5, fill='x')
+# btn_iniciar = ctk.CTkButton(frame_left, text="Iniciar Cópia", command=iniciar_copia)
+# btn_iniciar.pack(pady=5, fill='x')
 
-# btn_parar = ctk.CTkButton(frame_left, text="Parar Processo", command=parar)
-# btn_parar.pack(pady=5, fill='x')
+# # btn_parar = ctk.CTkButton(frame_left, text="Parar Processo", command=parar)
+# # btn_parar.pack(pady=5, fill='x')
 
-btn_desfazer = ctk.CTkButton(frame_left, text="Desfazer Cópia", command=desfazer)
-btn_desfazer.pack(pady=5, fill='x')
+# btn_desfazer = ctk.CTkButton(frame_left, text="Desfazer Cópia", command=desfazer)
+# btn_desfazer.pack(pady=5, fill='x')
 
-chk_bandeiras = {nome: BooleanVar(value=True) for nome in BANDEIRAS}
-for nome in chk_bandeiras:
-    chk = ctk.CTkCheckBox(frame_left, text=nome, variable=chk_bandeiras[nome])
-    chk.pack(anchor='w', pady=5)
+# chk_bandeiras = {nome: BooleanVar(value=True) for nome in BANDEIRAS}
+# for nome in chk_bandeiras:
+#     chk = ctk.CTkCheckBox(frame_left, text=nome, variable=chk_bandeiras[nome])
+#     chk.pack(anchor='w', pady=5)
 
 
-# 👉 Área direita (status)
-frame_right = ctk.CTkFrame(frame_mover_arquivos)
-frame_right.pack(fill="both", expand=True, padx=10, pady=10)
+# # 👉 Área direita (status)
+# frame_right = ctk.CTkFrame(frame_mover_arquivos)
+# frame_right.pack(fill="both", expand=True, padx=10, pady=10)
 
-text_status = ctk.CTkTextbox(frame_right, height=20, state='disabled')
-text_status.pack(fill='both', expand=True)
+# text_status = ctk.CTkTextbox(frame_right, height=20, state='disabled')
+# text_status.pack(fill='both', expand=True)
 
-barra_var = StringVar(value="Progresso: 0/0")
-label_progress = ctk.CTkLabel(frame_mover_arquivos, textvariable=barra_var, font=("Consolas", 12))
-label_progress.pack(side="bottom", fill="x", pady=5)
+# barra_var = StringVar(value="Progresso: 0/0")
+# label_progress = ctk.CTkLabel(frame_mover_arquivos, textvariable=barra_var, font=("Consolas", 12))
+# label_progress.pack(side="bottom", fill="x", pady=5)
 
 # Botões da sidebar
 btn_home = ctk.CTkButton(frame_sidebar, text="Home", fg_color="gray30", hover_color="gray40", command=lambda: mostrar_frame(frame_home))
@@ -1561,8 +1561,8 @@ btn_frog = ctk.CTkButton(frame_sidebar, text="Frog Pay", fg_color="gray30", hove
 btn_frog.pack(fill="x", pady=5, padx=10)
 
 
-btn_mover_arquivos = ctk.CTkButton(frame_sidebar, text="Movimentação de arquivos ", fg_color="gray30", hover_color="gray40", command=lambda: mostrar_frame(frame_mover_arquivos))
-btn_mover_arquivos.pack(fill="x", pady=5, padx=10)
+# btn_mover_arquivos = ctk.CTkButton(frame_sidebar, text="Movimentação de arquivos ", fg_color="gray30", hover_color="gray40", command=lambda: mostrar_frame(frame_mover_arquivos))
+# btn_mover_arquivos.pack(fill="x", pady=5, padx=10)
 
 # Botão do sistema
 btn_system = ctk.CTkOptionMenu(frame_sidebar, values=["System"])
